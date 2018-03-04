@@ -1,0 +1,35 @@
+.collation {
+    padding: 6rem 2rem;
+    list-style: none;
+}
+
+.list {
+    padding: 0;
+    list-style: none;
+}
+
+.item {
+    padding-bottom: 4rem;
+}
+
+.title {
+    font-family: var(--TITLE_FONT);
+    font-weight: var(--FONT_WEIGHT_REGULAR);
+    font-size: 2.6rem;
+    margin: 0;
+
+    @nest a:hover & {
+        text-decoration: underline;
+    }
+}
+
+.date,
+.preview {
+    margin: 0 0 1rem;
+}
+
+.date {
+    font-size: inherit;
+    opacity: .5;
+    display: block;
+}

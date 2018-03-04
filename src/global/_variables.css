@@ -1,0 +1,8 @@
+:root {
+    --BASE_FONT: 'lato', sans-serif;
+    --TITLE_FONT: 'lustria', serif;
+    --WHITE: #fff;
+
+    --FONT_WEIGHT_REGULAR: 400;
+    --FONT_WEIGHT_BOLD: 900;
+}

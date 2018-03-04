@@ -1,0 +1,32 @@
+@import '../../global/_variables.css';
+
+.header {
+    min-height: 40vh;
+    width: 100%;
+    background-image: url(./header.jpg);
+    background-position: center center;
+    background-size: cover;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: 0 2vw;
+
+    @media (min-width: 768px) {
+        min-height: 80vh;
+        background-attachment: fixed;
+    }
+}
+
+.link {
+    text-decoration: none;
+}
+
+.title {
+    font-size: 4rem;
+    font-family: var(--BASE_FONT);
+    font-weight: var(--FONT_WEIGHT_BOLD);
+    line-height: 1.2;
+    margin: 0;
+    color: var(--WHITE);
+    letter-spacing: .075em;
+}

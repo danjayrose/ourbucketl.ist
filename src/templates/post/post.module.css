@@ -1,0 +1,48 @@
+.post {
+    padding: 6rem 2rem;
+}
+
+.title {
+    font-family: var(--TITLE_FONT);
+    font-weight: var(--FONT_WEIGHT_REGULAR);
+    font-size: 4rem;
+    margin: 0;
+}
+
+.date {
+    font-size: inherit;
+    opacity: .5;
+    display: block;
+}
+
+.wysiwyg {
+    & h2,
+    & h3,
+    & h4,
+    & h5,
+    & h6 {
+        font-size: inherit;
+        font-weight: var(--FONT_WEIGHT_BOLD);
+        margin: 4rem 0 -1rem;
+    }
+
+    & p {
+        margin: 2rem 0;
+    }
+
+    & a {
+        font-weight: var(--FONT_WEIGHT_BOLD);
+    }
+}
+
+.pagination {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    list-style: none;
+    padding: 0;
+}
+
+.pagination__next {
+    margin-left: auto;
+}

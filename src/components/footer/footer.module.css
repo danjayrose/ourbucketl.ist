@@ -1,0 +1,9 @@
+.footer {
+    margin-top: auto;
+    padding: 0 2rem 3rem;
+    opacity: .5;
+}
+
+.small {
+    font-size: inherit;
+}
