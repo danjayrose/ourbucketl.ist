@@ -1,0 +1,48 @@
+{
+  "assetsByChunkName": {
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-8e3866f318ad050a1c0d.js",
+      "component---src-pages-index-js-8e3866f318ad050a1c0d.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-templates-blog-post-js": [
+      "component---src-templates-blog-post-js-82877eef797a2256fee2.js",
+      "component---src-templates-blog-post-js-82877eef797a2256fee2.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-09130eca7945204ea5fe.js",
+      "component---src-layouts-index-js-09130eca7945204ea5fe.js.map"
+    ],
+    "path---index": [
+      "path---index-ad1dc2282e637e5e5fa3.js",
+      "path---index-ad1dc2282e637e5e5fa3.js.map"
+    ],
+    "path---leaving-the-uk": [
+      "path---leaving-the-uk-df3306191c7527f110fc.js",
+      "path---leaving-the-uk-df3306191c7527f110fc.js.map"
+    ],
+    "commons": [
+      "commons-f3b75a76f6ea161eacf9.js",
+      "build-js-styles.css",
+      "commons-f3b75a76f6ea161eacf9.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-df1827b6457d426a869e.js",
+      "build-js-styles.css",
+      "app-df1827b6457d426a869e.js.map",
+      "build-js-styles.css.map"
+    ]
+  }
+}

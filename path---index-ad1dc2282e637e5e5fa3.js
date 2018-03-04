@@ -1,0 +1,2 @@
+webpackJsonp([0x81b8806e4260],{382:function(e,t){e.exports={data:{site:{siteMetadata:{title:"Gatsby Starter Blog"}},allMarkdownRemark:{edges:[{node:{excerpt:"Our first night is a stop over in Lisbon and although very early to be writing a travel blog, given that we haven’t even reached the first…",fields:{slug:"/leaving-the-UK/"},frontmatter:{date:"27 February, 2018",title:"Leaving the UK"}}}]}},pathContext:{}}}});
+//# sourceMappingURL=path---index-ad1dc2282e637e5e5fa3.js.map
