@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---rio-de-janeiro": [
+      "path---rio-de-janeiro-c4f6fd87c4b4545d5da8.js",
+      "path---rio-de-janeiro-c4f6fd87c4b4545d5da8.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-8e3866f318ad050a1c0d.js",
       "component---src-pages-index-js-8e3866f318ad050a1c0d.js.map"
@@ -21,12 +25,12 @@
       "component---src-layouts-index-js-09130eca7945204ea5fe.js.map"
     ],
     "path---index": [
-      "path---index-ad1dc2282e637e5e5fa3.js",
-      "path---index-ad1dc2282e637e5e5fa3.js.map"
+      "path---index-34de123f7e8905271810.js",
+      "path---index-34de123f7e8905271810.js.map"
     ],
     "path---leaving-the-uk": [
-      "path---leaving-the-uk-df3306191c7527f110fc.js",
-      "path---leaving-the-uk-df3306191c7527f110fc.js.map"
+      "path---leaving-the-uk-5c87647e8793ab30ba1f.js",
+      "path---leaving-the-uk-5c87647e8793ab30ba1f.js.map"
     ],
     "commons": [
       "commons-f3b75a76f6ea161eacf9.js",
@@ -39,9 +43,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-df1827b6457d426a869e.js",
+      "app-fc0a34c76c46e4d43406.js",
       "build-js-styles.css",
-      "app-df1827b6457d426a869e.js.map",
+      "app-fc0a34c76c46e4d43406.js.map",
       "build-js-styles.css.map"
     ]
   }
