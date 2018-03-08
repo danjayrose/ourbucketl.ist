@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby Starter Blog',
-    author: 'Kyle Mathews',
-    description: 'A starter blog demonstrating what Gatsby can do.',
-    siteUrl: 'https://danjayrose.github.io/ourbucketl.ist/',
+    title: 'ourbucketl.ist',
+    author: 'Dan Rose & Sophie Mellissa',
+    description: 'Travel Blog',
+    siteUrl: 'http://ourbucketl.ist/',
   },
-  pathPrefix: '/ourbucketl.ist',
+  pathPrefix: '/',
   plugins: [
     {
       resolve: `gatsby-plugin-google-fonts`,
@@ -32,7 +32,7 @@ module.exports = {
           {
             resolve: `gatsby-remark-images`,
             options: {
-              maxWidth: 700,
+              maxWidth: 900,
             },
           },
           {
@@ -52,7 +52,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
-        //trackingId: `ADD YOUR TRACKING ID HERE`,
+        trackingId: `UA-115367078-1`,
       },
     },
     `gatsby-plugin-feed`,
