@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---rio-de-janeiro": [
-      "path---rio-de-janeiro-c4f6fd87c4b4545d5da8.js",
-      "path---rio-de-janeiro-c4f6fd87c4b4545d5da8.js.map"
+      "path---rio-de-janeiro-69edf4949a384abf48ec.js",
+      "path---rio-de-janeiro-69edf4949a384abf48ec.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-8e3866f318ad050a1c0d.js",
@@ -25,8 +25,8 @@
       "component---src-layouts-index-js-09130eca7945204ea5fe.js.map"
     ],
     "path---index": [
-      "path---index-34de123f7e8905271810.js",
-      "path---index-34de123f7e8905271810.js.map"
+      "path---index-fd72fa80ad123fffb1b7.js",
+      "path---index-fd72fa80ad123fffb1b7.js.map"
     ],
     "path---leaving-the-uk": [
       "path---leaving-the-uk-022ed5aa961b6bee7bbf.js",
@@ -43,9 +43,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-fc0a34c76c46e4d43406.js",
+      "app-18114b4ff2cc13dbefa3.js",
       "build-js-styles.css",
-      "app-fc0a34c76c46e4d43406.js.map",
+      "app-18114b4ff2cc13dbefa3.js.map",
       "build-js-styles.css.map"
     ]
   }
