@@ -37,7 +37,7 @@
 /* eslint-disable indent, no-unused-vars, no-multiple-empty-lines, max-nested-callbacks, space-before-function-paren, quotes, comma-spacing */
 'use strict';
 
-var precacheConfig = [["//ourbucketl.ist/app-216dbe2d1b5d2d52a7d0.js","512d6c6ed3a2a2468fcf549292551646"],["//ourbucketl.ist/app-df1827b6457d426a869e.js","cdf8b5ae01fc693c98982ee66ca98e05"],["//ourbucketl.ist/app-fc0a34c76c46e4d43406.js","5fc360fd638f25bc3acfb98c24bfbb11"],["//ourbucketl.ist/commons-f3b75a76f6ea161eacf9.js","35b5be1a6c3e18f5fa0151b00eeabdf5"],["//ourbucketl.ist/index.html","5a61ca795fa323411e382b3808d11a9f"],["//ourbucketl.ist/offline-plugin-app-shell-fallback/index.html","d4483284e467fba6b8f00f586f7a4b12"]];
+var precacheConfig = [["/./app-216dbe2d1b5d2d52a7d0.js","512d6c6ed3a2a2468fcf549292551646"],["/./app-df1827b6457d426a869e.js","cdf8b5ae01fc693c98982ee66ca98e05"],["/./app-fc0a34c76c46e4d43406.js","7d642b55189df763fde9712b30ae03cc"],["/./commons-f3b75a76f6ea161eacf9.js","e78371de8dd387dbf821376cf17d55a6"],["/./index.html","7f5ac5dc9e55ea0422fe6dfd1298796e"],["/./offline-plugin-app-shell-fallback/index.html","1f501a775381e0723b45ec422faf7216"]];
 var cacheName = 'sw-precache-v3-gatsby-plugin-offline-' + (self.registration ? self.registration.scope : '');
 
 
