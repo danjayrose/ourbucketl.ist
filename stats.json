@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "path---rio-de-janeiro": [
-      "path---rio-de-janeiro-fc8487ecb62138334eb4.js",
-      "path---rio-de-janeiro-fc8487ecb62138334eb4.js.map"
+      "path---rio-de-janeiro-f6ce88c8f0924f089796.js",
+      "path---rio-de-janeiro-f6ce88c8f0924f089796.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-8e3866f318ad050a1c0d.js",
-      "component---src-pages-index-js-8e3866f318ad050a1c0d.js.map"
+      "component---src-pages-index-js-83d2cbe194f4d2bf4f94.js",
+      "component---src-pages-index-js-83d2cbe194f4d2bf4f94.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -17,21 +17,25 @@
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-82877eef797a2256fee2.js",
-      "component---src-templates-blog-post-js-82877eef797a2256fee2.js.map"
+      "component---src-templates-blog-post-js-9892aabe363daf36c973.js",
+      "component---src-templates-blog-post-js-9892aabe363daf36c973.js.map"
+    ],
+    "path---ilha-grande-and-paraty": [
+      "path---ilha-grande-and-paraty-19b47ec0ffd32613a4d9.js",
+      "path---ilha-grande-and-paraty-19b47ec0ffd32613a4d9.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-2bb69f7c80928f4ab8cb.js",
-      "component---src-layouts-index-js-2bb69f7c80928f4ab8cb.js.map"
+      "component---src-layouts-index-js-3edfc01c46c79033147f.js",
+      "component---src-layouts-index-js-3edfc01c46c79033147f.js.map"
     ],
     "path---index": [
-      "path---index-d1ffa788f1ad553d0977.js",
-      "path---index-d1ffa788f1ad553d0977.js.map"
+      "path---index-921c17849323122652a6.js",
+      "path---index-921c17849323122652a6.js.map"
     ],
     "commons": [
-      "commons-f3b75a76f6ea161eacf9.js",
+      "commons-ebaba8b53ddabe83e2aa.js",
       "build-js-styles.css",
-      "commons-f3b75a76f6ea161eacf9.js.map",
+      "commons-ebaba8b53ddabe83e2aa.js.map",
       "build-js-styles.css.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
@@ -39,9 +43,9 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-f9fcaaf29c81f0b690e9.js",
+      "app-f38935c44379122c3a21.js",
       "build-js-styles.css",
-      "app-f9fcaaf29c81f0b690e9.js.map",
+      "app-f38935c44379122c3a21.js.map",
       "build-js-styles.css.map"
     ]
   }
