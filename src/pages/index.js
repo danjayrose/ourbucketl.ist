@@ -3,8 +3,6 @@ import Link from 'gatsby-link'
 import get from 'lodash/get'
 import Helmet from 'react-helmet'
 
-import Header from '../components/header/header'
-
 import styles from "./collation/collation.module.css";
 
 class BlogIndex extends React.Component {

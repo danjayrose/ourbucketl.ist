@@ -6,7 +6,8 @@
     font-family: var(--TITLE_FONT);
     font-weight: var(--FONT_WEIGHT_REGULAR);
     font-size: 4rem;
-    margin: 0;
+    line-height: 1;
+    margin: 0 0 .5rem;
 }
 
 .date {
@@ -17,7 +18,7 @@
 
 .wysiwyg {
 
-    & > :first-child {
+    & > :first-child:not(h2):not(h3):not(h4):not(h5):not(h6) {
         font-size: 2rem;
     }
 

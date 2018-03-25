@@ -6,7 +6,10 @@ import styles from "./header.module.css";
 class Header extends React.Component {
   render() {
     return (
-      <header className={styles.header}>
+      <header className={styles.header + " " + (this.props.isRoot ? styles.headerBg : null)}>
+        <div className={styles.imageWrap}>
+          { this.props.children }
+        </div>
         <Link className={styles.link} to="/">
           {
             this.props.isRoot
