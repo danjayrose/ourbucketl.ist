@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---rio-de-janeiro": [
-      "path---rio-de-janeiro-f6ce88c8f0924f089796.js",
-      "path---rio-de-janeiro-f6ce88c8f0924f089796.js.map"
+      "path---rio-de-janeiro-5626a2051fa2fc19f1ac.js",
+      "path---rio-de-janeiro-5626a2051fa2fc19f1ac.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-a86cc583b61bcc8221fc.js",
@@ -12,33 +12,37 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---ushuaia": [
+      "path---ushuaia-64c28818403a72f2c71c.js",
+      "path---ushuaia-64c28818403a72f2c71c.js.map"
+    ],
     "path---sao-paulo-and-iguazu-falls": [
-      "path---sao-paulo-and-iguazu-falls-a20680e000e2e0acf217.js",
-      "path---sao-paulo-and-iguazu-falls-a20680e000e2e0acf217.js.map"
+      "path---sao-paulo-and-iguazu-falls-3a98961b6c652b8e932d.js",
+      "path---sao-paulo-and-iguazu-falls-3a98961b6c652b8e932d.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---buenos-aires": [
-      "path---buenos-aires-05c4f94d9c57a97e17f6.js",
-      "path---buenos-aires-05c4f94d9c57a97e17f6.js.map"
+      "path---buenos-aires-79fd0d406565dc39e1e2.js",
+      "path---buenos-aires-79fd0d406565dc39e1e2.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-f6b0262d810b87e639e5.js",
-      "component---src-templates-blog-post-js-f6b0262d810b87e639e5.js.map"
+      "component---src-templates-blog-post-js-79927e63a6127160d1ea.js",
+      "component---src-templates-blog-post-js-79927e63a6127160d1ea.js.map"
     ],
     "path---ilha-grande-and-paraty": [
-      "path---ilha-grande-and-paraty-e6306dc90a7296e069ab.js",
-      "path---ilha-grande-and-paraty-e6306dc90a7296e069ab.js.map"
+      "path---ilha-grande-and-paraty-6319979235a08b65131c.js",
+      "path---ilha-grande-and-paraty-6319979235a08b65131c.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-c1c5447310102a0fac7e.js",
-      "component---src-layouts-index-js-c1c5447310102a0fac7e.js.map"
+      "component---src-layouts-index-js-daf7d682589b0f66abbc.js",
+      "component---src-layouts-index-js-daf7d682589b0f66abbc.js.map"
     ],
     "path---index": [
-      "path---index-bb937c8e14e85f49ab9b.js",
-      "path---index-bb937c8e14e85f49ab9b.js.map"
+      "path---index-0885b4202f135dc16819.js",
+      "path---index-0885b4202f135dc16819.js.map"
     ],
     "commons": [
       "commons-d27b2d4800120666d7b5.js",
@@ -51,13 +55,13 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---lollapalooza-argentina": [
-      "path---lollapalooza-argentina-21067f2f261da60ac231.js",
-      "path---lollapalooza-argentina-21067f2f261da60ac231.js.map"
+      "path---lollapalooza-argentina-a3bcb0a0112c068d43d3.js",
+      "path---lollapalooza-argentina-a3bcb0a0112c068d43d3.js.map"
     ],
     "app": [
-      "app-5f5e43df67886e9fd320.js",
+      "app-7c0531a9945102e6d90d.js",
       "build-js-styles.css",
-      "app-5f5e43df67886e9fd320.js.map",
+      "app-7c0531a9945102e6d90d.js.map",
       "build-js-styles.css.map"
     ]
   }
