@@ -4,6 +4,9 @@ date: "2018-03-22T22:12:03.284Z"
 image: "./labombonera.jpg"
 ---
 
+>“Without the streets nor dusks of Buenos Aires a Tango cannot be written.”
+Jorge Luis Borges
+
 ##Transport & Hostel
 
 To get to Buenos Aires we took a bus from Puerto Iguazu, which cost us £80 and took 19 hours in total; it left at 14:00 and arrived at 09:00 the following day. We paid for ‘executive’ seats which were more like first class seats on an airplane.  We were given three meals, mostly bread and crackers, there was a TV with films dubbed in Spanish and we were given a small bottle of red wine with our meal. Our first taste of Malbec in Argentina. During the night we drove for hours through thunderstorms, with the lightening lighting up the sky every few seconds, luckily we couldn’t hear the thunder.
@@ -18,15 +21,15 @@ Buenos Aires is a massive city and the hostel was in the oldest barrio San Telmo
 
 ##Food
 
-We could hardly go to Argentina and not go out for steak and wine, so we did, twice. We ate in La Brigada, a restaurant recommended by the hostel for the best steak in the area. There were so many cuts of beef we managed to try t-bone, lomo (sirloin), tail of lomo and beef of chorizo; all mouth wateringly delicious.
+We could hardly go to Argentina and not go out for steak and wine, so we did, twice. We ate in [La Brigada] (http://www.parrillalabrigada.com.ar/), a restaurant recommended by the hostel for the best steak in the area. There were so many cuts of beef we managed to try t-bone, lomo (sirloin), tail of lomo and beef of chorizo; all mouth wateringly delicious.
 
 ![Steak](./steak.jpg "Steak")
 
-Due to the immigrants settling in Buenos Aires from 1857-1940, there is an obvious Italian influence throughout the city. This has also shaped the way Argentinians speak Spanish, as beer is birra not cerveza. So, we thought we ought to eat at one of the many pizza restaurants too. We’d been warned that people think that the Argentine pizza is too cheesy, I didn’t think this was possible, but it really was! Dan had also researched a place called ‘Chicken Bros’ which sold all you can eat chicken wings on a Tuesday, so it was inevitable that we were going to end up eating there too. We ate around 70 chicken wings in total, pure gluttony!
+Due to the immigrants settling in Buenos Aires from 1857-1940, there is an obvious Italian influence throughout the city. This has also shaped the way Argentinians speak Spanish, as beer is birra not cerveza. So, we thought we ought to eat at one of the many pizza restaurants too. We’d been warned that people think that the Argentine pizza is too cheesy, I didn’t think this was possible, but it really was! Dan had also researched a place called [Chicken Bros] (http://thechickenbros.com/) which sold all you can eat chicken wings on a Tuesday, so it was inevitable that we were going to end up eating there too. We ate around 70 chicken wings in total, pure gluttony!
 
 ##City Centre
 
-As day three of Lollapalooza was cancelled we decided not to waste our time in Buenos Aires and we did the first of three free walking tours, excessive we know. Our guide Fernando told us about how Argentina became a country and stories of the first people to settle there. He talked to us about Eva Peron, the first lady of Argentina from 1946-1952 who the nation loved and who Madonna played in the film Evita. He also showed us the Italian and Parisian architectual influences in the city.
+As day three of Lollapalooza was cancelled we decided not to waste our time in Buenos Aires and we did the first of three [free walking tours] (http://www.buenosairesfreewalks.com/), excessive we know. Our guide Fernando told us about how Argentina became a country and stories of the first people to settle there. He talked to us about Eva Peron, the first lady of Argentina from 1946-1952 who the nation loved and who Madonna played in the film Evita. He also showed us the Italian and Parisian architectual influences in the city.
 
 La Recoleta Cemetery was one of the more peaceful places in the city. It was nice to get away for a short while from all the people shouting “cambio, cambio, cambio” at us on the streets of Buenos Aires, asking for us to exchange our money for their probably fake Argentine Pesos at their dodgy rates.
 
@@ -42,7 +45,7 @@ It was a very vibrant and colourful part of the city which made for some great p
 
 ![Boca Juniors Stadium](./boca-juniors.jpg "Boca Juniors Stadium")
 
-We had a look around La Bombonera, which didn’t take long as the ground was tiny! We’d learnt on the tour that the people in the houses around the stadium had gone back on their agreement to sell their properties, so they could only build half of the stadium which is why it is so small. After the tour we stopped for a beer and watched the Tango dancers for a tip.
+We had a look around [La Bombonera] (http://www.stadiumguide.com/bombonera/), which didn’t take long as the ground was tiny! We’d learnt on the tour that the people in the houses around the stadium had gone back on their agreement to sell their properties, so they could only build half of the stadium which is why it is so small. After the tour we stopped for a beer and watched the Tango dancers for a tip.
 
 ![Tango Dancers](./tango.jpg "Tango")
 

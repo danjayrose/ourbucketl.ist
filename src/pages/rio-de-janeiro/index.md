@@ -4,8 +4,7 @@ date: "2018-03-05T22:12:03.284Z"
 image: "./escadaria-selaron.jpg"
 ---
 
->“I sorta think from a distance...Jesus, top of a hill, lookin’ like he’s about to bungee jump, you pass it, you go, ‘There he is. Great. What else are we doin’?!”
-
+>“I sorta think from a distance… Jesus, top of a hill, lookin’ like he’s about to bungee jump, you pass it, you go, ‘There he is. Great. What else are we doin’?!”
 Karl Pilkington, An Idiot Abroad (not bitter at all).
 
 ##Arriving in Rio
@@ -20,11 +19,11 @@ The first thing we did in Rio was head to the beach. The guy at the hostel recom
 
 ![Gloria Beach](./gloria-beach.jpg "Gloria Beach")
 
-On our last day in Rio, we did a free walking tour of the Copacabana and Ipanema area. Our guide told us about the World Cup and how everyone gathered in front of the big screens to watch the games on the beach. We went to the restaurant where “The Girl from Ipanema” was written and walked to Lagoa Rodrigues de Freitas to watch the sun go down. The guide gave us some Brazilian snacks to try including Biscoto Globo, a weird banana sweet and some Guarana, an energy drink that tastes like red bull. By this time, we felt much more comfortable and confident in Rio and walked around the most expensive part of town to find some food after dark.
+On our last day in Rio, we did a [free walking tour] (http://www.freewalkertours.com/) of the Copacabana and Ipanema area. Our guide told us about the World Cup and how everyone gathered in front of the big screens to watch the games on the beach. We went to the restaurant where “The Girl from Ipanema” was written and walked to Lagoa Rodrigues de Freitas, a big lake, to watch the sun go down. The guide gave us some Brazilian snacks to try including Biscoto Globo, a weird banana sweet and some Guarana, an energy drink that tastes like red bull. By this time, we felt much more comfortable and confident in Rio and walked around the most expensive part of town to find some food after dark.
 
 ##Christ The Redeemer
 
-We had seen Christ the Redeemer lit up at night and from Gloria beach, but what's a trip to Rio without seeing the wonder of the world up close. Following some advice from a dutch girl on our free walking tour of Downtown and Lapa, we decided to do as she did and get an Uber up Corcovado Mountain to see him in all his glory. The driver spoke no english and on the way either stopped in front of a favela to ask for directions or tried to drive through it, we’re still not sure. Either way, luckily a guy wearing an official visitors t-shirt turned him away or told him the right way to go. After getting to the top, we went to buy our ticket, only to be told that there was no visibility at all and the live camera on Christ was just pure white from the cloud. We waited for some time and the boys had more beers, but the cloud didn't shift and in the end we had to give up and pay excessive amounts to get back down.
+We had seen Christ the Redeemer lit up at night and from Gloria beach, but what's a trip to Rio without seeing the wonder of the world up close. Following some advice from a dutch girl on our free walking tour of Downtown and Lapa, we decided to do as she did and get an Uber up Corcovado Mountain to see him in all his glory. The driver spoke no english and on the way either stopped in front of a favela to ask for directions or tried to drive through it, we’re still not sure. Either way, luckily a guy wearing an official guide t-shirt turned him away or told him the right way to go. After getting to the top, we went to buy our ticket, only to be told that there was no visibility at all and the live camera on Christ was just pure white from the cloud. We waited for some time and the boys had more beers, but the cloud didn't shift and in the end we had to give up and pay excessive amounts to get back down the mountain.
 
 ![Christ the Redeemer](./christ-the-redeemer.jpg "Christ the Redeemer")
 
@@ -32,7 +31,7 @@ I was on 'Christ watch' for the rest of the time in Rio, trying to catch a glimp
 
 ##Art & Culture
 
-To get the full Rio experience we decided to do a couple of walking tours to learn about the history and culture of the city. On the tour of Downtown and Lapa we tried Coxinhas, breaded chicken balls with cheese inside (that tasted a bit like mac and cheese balls) and ended up at the bright tiled steps ‘Escadaria Selaron’, a gift from Jorge Selaron to the city which took him over 23 years to finish. They were really bright and vibrant and one of my favourite parts of the city leading to the Santa Teresa neighbourhood.
+To get the full Rio experience we decided to do a couple of walking tours to learn about the history and culture of the city. On the tour of Downtown and Lapa we tried Coxinhas, breaded chicken balls with cheese inside (that tasted a bit like mac and cheese balls) and ended up at the bright tiled steps ‘Escadaria Selaron’, a gift from Jorge Selaron to the city which took him over 23 years to finish. They were really bright and vibrant and one of our favourite parts of the Rio, leading to the Santa Teresa neighbourhood.
 
 We also had a wander to Olympic Boulevard during a pretty loud thunderstorm, one strike of lightning was so close and so loud it made the lady crossing the road next to Alz grab his arm. At Olympic Boulevard we saw probably the best street art we’ve seen in any city we’ve been to so far. It was a huge mural by Eduardo Kobra completed for the Olympics; it was so colourful and vibrant and represented the five continents of the games. On the way we also visited the very ugly Cathedral which is inspired by a Mayan Pyramid, Dan repeatedly told us that “beauty comes from within”. It looked a bit like the old Birmingham Library before it was torn down.
 
@@ -40,11 +39,11 @@ We also had a wander to Olympic Boulevard during a pretty loud thunderstorm, one
 
 To get a good view of the city, we decided instead of paying extortionate amounts for Sugarloaf and risking the cloud of Corcovado Mountain we walked up the very steep hill to Santa Teresa, the hipster ‘foodie’ area of Rio. On the way Alz got a bit cocky and jumped up a steep step, resulting in his shorts tearing along the crotch. We got a good panoramic view of the city from Parque Das Ruinas, except for Christ, who remained behind the clouds.
 
-Despite Rio seeming to be a city that never sleeps, where the fruit and vegetable stores are open until the early hours of the morning, we had heard that the city is very quiet on a Sunday, and what we heard wasn’t a lie. The only places open seemed to be McDonalds and Starbucks. As there wasn’t a lot to do, we went to the Modern Art Museum, Alz and Dan particularly enjoyed mocking Giacometti’s “Four Women on Base”. We then went to the Museu Historico Nacional which was free on a Sunday; we pretty much had the museum to ourselves as it was so quiet.
+Despite Rio seeming to be a city that never sleeps, where the fruit and vegetable stores are open until the early hours of the morning, we had heard that the city is very quiet on a Sunday, and what we heard wasn’t a lie. The only places open seemed to be McDonalds and Starbucks. As there wasn’t a lot to do, we went to the [Modern Art Museum] (http://visit.rio/en/que_fazer/mam2/), Alz and Dan particularly enjoyed mocking Giacometti’s “Four Women on Base”. We then went to the [Museu Historico Nacional] (http://mhn.museus.gov.br/) which was free on a Sunday; we pretty much had the museum to ourselves as it was so quiet.
 
 ##Food & Caipirinhas
 
-The hostel where we stayed sold £1 Caipirinhas, either lime or passionfruit and we definitely had our fill of these, they have possibly rocketed to one of our favourite cocktails. Something which took some time getting used to was that everyone shared 600ml bottles of beer, we got very strange looks when we tried to order one each so followed the Carioca trend and shared and drank from teeny tiny glasses. On Alz’s birthday we went to a local restaurant called Os Ximenes; we had two massive steaks, Brazilian sausage, scrambled egg in Farofa, a tasteless brazilian flour, rice and chips. It was delicious although covered in about three bulbs of diced garlic. Safe to say we stank the next day.
+The hostel we stayed in sold £1 Caipirinhas, either lime or passionfruit and we definitely had our fill of these. They have possibly rocketed to one of our favourite cocktails. Something which took some time getting used to was that everyone shared 600ml bottles of beer, we got very strange looks when we tried to order one each so followed the Carioca trend and shared and drank from teeny tiny glasses. On Alz’s birthday we went to a local restaurant called Os Ximenes; we had two massive steaks, Brazilian sausage, scrambled egg in Farofa, a tasteless brazilian flour, rice and chips. It was delicious although covered in about three bulbs of diced garlic. Safe to say we stank the next day.
 
 ##Our Verdict on Rio
 

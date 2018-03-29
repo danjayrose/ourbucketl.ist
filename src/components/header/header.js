@@ -3,10 +3,15 @@ import Link from 'gatsby-link'
 
 import styles from "./header.module.css";
 
+import bgImg from "../../pages/ushuaia/isla-martillo.jpg";
+
 class Header extends React.Component {
   render() {
     return (
-      <header className={styles.header + " " + (this.props.isRoot ? styles.headerBg : null)}>
+      <header
+        style={ { backgroundImage: `url(${bgImg})` } }
+        className={styles.header + " " + (this.props.isRoot ? styles.headerBg : null)}
+      >
         <div className={styles.imageWrap}>
           { this.props.children }
         </div>

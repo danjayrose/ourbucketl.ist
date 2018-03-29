@@ -5,7 +5,6 @@ image: "./brazil-flag.jpg"
 ---
 
 >“Is it normal to have sweaty ears? I’ve never had a sweaty ear in my life… They’re not even doing anything and they’re hot.”
-
 Karl Pilkington on Brazilian weather, An Idiot Abroad.
 
 ##Arriving at Ilha Grande
@@ -24,7 +23,7 @@ The most common animal we saw on the island were dogs. Lots and lots of dogs. Th
 
 ![Smart Dog](./smart-dog.jpg "Smart Dog")
 
-On our first night on the island we spotted a couple of black tufted-ear marmoset’s in the Vila do Abraão on the telephone wires, I managed to take one photo before they ran off and disappeared. As we had read that there were howler monkey’s on the island, we decided to do a bit of a walk through the jungle on the second day to see if we could see any. This wasn’t supposed to be for long as we wanted to chill out on the beach; we were also wearing sandals and had about half a bottle of water between us. We ended up walking along a trail to Dois Rios and at one point we became determined to do the 3-4 hour trek all the way there. However, after reaching a viewpoint we turned back as we were out of water and according to the map we were only about one third of the way there; the sun was out and it was midday so carrying on seemed like a stupid idea. The view was stunning of the bay and it was well worth the hour walk there and back. Sadly, we didn’t see any monkeys, just big ants, butterflies, a few types of birds and a great big spider.
+On our first night on the island we spotted a couple of Black Tufted-ear Marmoset’s in the Vila do Abraão on the electric wires, I managed to take one photo before they ran off and disappeared. As we had read that there were howler monkey’s on the island, we decided to do a bit of a walk through the jungle on the second day to see if we could see any. This wasn’t supposed to be for long as we wanted to chill out on the beach; we were also wearing sandals and had about half a bottle of water between us. As we reached the beginning of the trail, there was  a warning about mosquitos carrying yellow fever. We'd had our vaccinations but Alz hadn't. He decided to come with anyway as the vaccination hadn't been compulsory to visit Brazil and armed himself with insect repellent. We ended up walking along a trail to Dois Rios, which was on the opposite side of the island and at one point we became determined to do the 3-4 hour trek all the way there. However, after reaching a viewpoint we turned back as we were out of water and according to the map we were only about one third of the way there; the sun was out and it was midday so carrying on seemed like a stupid idea. The view was stunning of the bay and it was well worth the hour walk there and back. Sadly, we didn’t see any monkeys, just big ants, butterflies, a few types of birds and a great big spider.
 
 ![Ilha Grande View](./ilha-grande-view.jpg "Ilha Grande View")
 
@@ -36,13 +35,15 @@ As we felt like we’d failed the trail the day before, the next day we decided 
 
 Lopes Mendes delivered as promised. The beach was huge and secluded, there were no restaurants or pousada’s there, just a couple of men with their carts selling drinks and snacks. The sand was white and so fine, as we walked along the beach it squeaked beneath our feet. The sea was crystal clear, warm and it was so shallow we could go out really far and the water was only up to our waists.  Even though we were knackered when we got to Lopes Mendes, we felt a sense of achievement. It was well worth the 3 hour trek across the island to get there but we were exceptionally grateful for the speedboat back to Vila do Abraão.
 
-![Lopes-mendes](./lopes-mendes.jpg "Lopes Mendes")
+![Lopes Mendes](./lopes-mendes.jpg "Lopes Mendes")
 
 After a long day we ate at a restaurant called Steak n’ Beach and had a huge mixed grill for the three of us. It came on a sizziling hot plate and consisted of two pork chops, two steaks, two chicken breasts and four Brazilian sausages, accompanied with a bowl of rice, a mound of chips and some salsa. It cost us $145R which is around £32.
 
 ##Paraty
 
-After a few days on Ilha Grande we left for Paraty on our Easy Transfer and it took around 4 hours to reach the town from the island. The weather was overcast and it rained for half of our time in Paraty. On our walking tour in Rio, the guide had said that we had come to Brazil at a time where the seasons were changing which meant that the weather was hot but with some rain in the afternoon. Because of the weather, there wasn’t a lot to do in Paraty. For some reason the free walking tours had been cancelled and we didn’t want to risk a boat trip or a bus ride to Trindade to spend the day on the beach as it kept raining on and off. Therefore, we milled around the old town which was very picturesque, with its colourful boats, buildings and cobbled streets. The people of Paraty also seemed to have a fondness for classic VW Beetles, which were colourful and matched the style of the town.
+After a few days on Ilha Grande we left for Paraty on our Easy Transfer and it took around 4 hours to reach the town from the island. The weather was overcast and it rained for half of our time in Paraty. On our walking tour in Rio, the guide had said that we had come to Brazil at a time where the seasons were changing which meant that the weather was hot but with some rain in the afternoon. Because of the weather, there wasn’t a lot to do in Paraty. I also felt a little unwell and Alz developed a fever, headache, muscle ache and loss of appetite. He googled his symptoms and decided it was likely he had yellow fever. It turned out that in November 2017 an outbreak of yellow fever had started in the State of Rio de Janiero and State of Sao Paulo; worsening in January 2018. Specifically people had contracted the disease on Ilha Grande!
+
+For some reason the free walking tours had been cancelled in Paraty and we didn’t want to risk a boat trip or a bus ride to Trindade to spend the day on the beach as it kept raining on and off. Therefore, we milled around the old town which was very picturesque, with its colourful boats, buildings and cobbled streets. The people of Paraty also seemed to have a fondness for classic VW Beetles, which were colourful and matched the style of the town.
 
 ![Paraty](./paraty.jpg "Paraty")
 
@@ -54,4 +55,4 @@ It was here that we finally saw more monkeys! We were having breakfast in our ho
 
 ##Verdict on Ilha Grande & Paraty
 
-Ilha Grande didn’t turn out to be such a relaxing destination after all as we did lots of hiking through the jungle across the island. We ended up with around 30 mosquito bites between us, but totally worth it for the beautiful views and beaches. Following this, we enjoyed our chilled out time in Paraty; a beautiful colonial town with lots of character that wasn’t even the rain couldn't spoil.
+Ilha Grande didn’t turn out to be such a relaxing destination after all as we did lots of hiking through the jungle across the island. We ended up with around 30 mosquito bites between us but totally worth it for the beautiful views and beaches. Following this, we enjoyed our chilled out time in Paraty; a beautiful colonial town with lots of character that wasn’t even the rain couldn't spoil.

@@ -14,7 +14,6 @@
     }
 
     &.headerBg {
-        background-image: url(./../../pages/rio-de-janeiro/escadaria-selaron.jpg);
         background-position: center center;
         background-size: cover;
         min-height: 40vh;
