@@ -5,7 +5,8 @@ image: "./waterfalls.jpg"
 ---
 
 >“There is a hidden message in every waterfall. It says, if you are flexible, falling will not hurt you!"
-Mehmet Murat Ildan
+
+Mehmet Murat Ildan.
 
 ##One night in São Paulo
 

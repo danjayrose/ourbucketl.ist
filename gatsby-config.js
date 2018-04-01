@@ -3,7 +3,7 @@ module.exports = {
     title: 'ourbucketl.ist',
     author: 'Dan Rose & Sophie Mellissa',
     description: 'Travel Blog',
-    siteUrl: 'http://ourbucketl.ist/',
+    siteUrl: 'https://ourbucketl.ist/',
   },
   pathPrefix: '/',
   plugins: [

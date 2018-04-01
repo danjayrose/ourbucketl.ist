@@ -5,7 +5,8 @@ image: "./labombonera.jpg"
 ---
 
 >“Without the streets nor dusks of Buenos Aires a Tango cannot be written.”
-Jorge Luis Borges
+
+Jorge Luis Borges.
 
 ##Transport & Hostel
 

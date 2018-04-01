@@ -5,6 +5,7 @@ image: "./brazil-flag.jpg"
 ---
 
 >“Is it normal to have sweaty ears? I’ve never had a sweaty ear in my life… They’re not even doing anything and they’re hot.”
+
 Karl Pilkington on Brazilian weather, An Idiot Abroad.
 
 ##Arriving at Ilha Grande

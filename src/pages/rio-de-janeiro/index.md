@@ -5,6 +5,7 @@ image: "./escadaria-selaron.jpg"
 ---
 
 >“I sorta think from a distance… Jesus, top of a hill, lookin’ like he’s about to bungee jump, you pass it, you go, ‘There he is. Great. What else are we doin’?!”
+
 Karl Pilkington, An Idiot Abroad (not bitter at all).
 
 ##Arriving in Rio
