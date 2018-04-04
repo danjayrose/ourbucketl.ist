@@ -5,8 +5,8 @@
       "path---rio-de-janeiro-57a7b0dcb16b729fc3ce.js.map"
     ],
     "path---puerto-natales": [
-      "path---puerto-natales-64bad40b8bb7c126bfe4.js",
-      "path---puerto-natales-64bad40b8bb7c126bfe4.js.map"
+      "path---puerto-natales-e86a0e5a32be7097be23.js",
+      "path---puerto-natales-e86a0e5a32be7097be23.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-a86cc583b61bcc8221fc.js",
@@ -45,8 +45,12 @@
       "component---src-layouts-index-js-bad325abaee70c60fda6.js.map"
     ],
     "path---index": [
-      "path---index-e2ca796d2841673e9434.js",
-      "path---index-e2ca796d2841673e9434.js.map"
+      "path---index-24c4652ad26737288f0f.js",
+      "path---index-24c4652ad26737288f0f.js.map"
+    ],
+    "path---el-calafate": [
+      "path---el-calafate-362b478ee10acdde1743.js",
+      "path---el-calafate-362b478ee10acdde1743.js.map"
     ],
     "commons": [
       "commons-d27b2d4800120666d7b5.js",
@@ -63,9 +67,9 @@
       "path---lollapalooza-argentina-729ad3407b7c404628ba.js.map"
     ],
     "app": [
-      "app-8c5ac7ba881e60166434.js",
+      "app-5663a226f7e9fed3030b.js",
       "build-js-styles.css",
-      "app-8c5ac7ba881e60166434.js.map",
+      "app-5663a226f7e9fed3030b.js.map",
       "build-js-styles.css.map"
     ]
   }
