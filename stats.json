@@ -24,6 +24,10 @@
       "path---sao-paulo-and-iguazu-falls-381ec78f56f4b68ca8e1.js",
       "path---sao-paulo-and-iguazu-falls-381ec78f56f4b68ca8e1.js.map"
     ],
+    "path---mendoza": [
+      "path---mendoza-73b7ef7fed409fa2c5dc.js",
+      "path---mendoza-73b7ef7fed409fa2c5dc.js.map"
+    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
@@ -45,16 +49,16 @@
       "component---src-layouts-index-js-bad325abaee70c60fda6.js.map"
     ],
     "path---index": [
-      "path---index-7436e33778df07afb36d.js",
-      "path---index-7436e33778df07afb36d.js.map"
+      "path---index-b32e2fa7ada0c55eb9e5.js",
+      "path---index-b32e2fa7ada0c55eb9e5.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-126efcf032c622f6e38e.js",
       "path---el-calafate-126efcf032c622f6e38e.js.map"
     ],
     "path---san-carlos-de-bariloche": [
-      "path---san-carlos-de-bariloche-8ee37f8d286c7ade4ad3.js",
-      "path---san-carlos-de-bariloche-8ee37f8d286c7ade4ad3.js.map"
+      "path---san-carlos-de-bariloche-9b907b92da65de2de771.js",
+      "path---san-carlos-de-bariloche-9b907b92da65de2de771.js.map"
     ],
     "commons": [
       "commons-d27b2d4800120666d7b5.js",
@@ -71,9 +75,9 @@
       "path---lollapalooza-argentina-729ad3407b7c404628ba.js.map"
     ],
     "app": [
-      "app-70a255736aa1fc1654d9.js",
+      "app-b47f3be2f3bec1db46f8.js",
       "build-js-styles.css",
-      "app-70a255736aa1fc1654d9.js.map",
+      "app-b47f3be2f3bec1db46f8.js.map",
       "build-js-styles.css.map"
     ]
   }
