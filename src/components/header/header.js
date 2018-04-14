@@ -3,7 +3,7 @@ import Link from 'gatsby-link'
 
 import styles from "./header.module.css";
 
-import bgImg from "../../pages/ushuaia/isla-martillo.jpg";
+import bgImg from "../../pages/puerto-natales/blue-lake.jpg";
 
 class Header extends React.Component {
   render() {
