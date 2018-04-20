@@ -25,8 +25,8 @@
       "path---sao-paulo-and-iguazu-falls-381ec78f56f4b68ca8e1.js.map"
     ],
     "path---mendoza": [
-      "path---mendoza-11f98a331d054b83adea.js",
-      "path---mendoza-11f98a331d054b83adea.js.map"
+      "path---mendoza-f7789e5279c19c4d4769.js",
+      "path---mendoza-f7789e5279c19c4d4769.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -48,9 +48,13 @@
       "component---src-layouts-index-js-bad325abaee70c60fda6.js",
       "component---src-layouts-index-js-bad325abaee70c60fda6.js.map"
     ],
+    "path---valparaiso": [
+      "path---valparaiso-463c8928e501101e1ec3.js",
+      "path---valparaiso-463c8928e501101e1ec3.js.map"
+    ],
     "path---index": [
-      "path---index-295fd9f856348845275e.js",
-      "path---index-295fd9f856348845275e.js.map"
+      "path---index-3d0a7f845c219c7c441d.js",
+      "path---index-3d0a7f845c219c7c441d.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-126efcf032c622f6e38e.js",
@@ -75,10 +79,14 @@
       "path---lollapalooza-argentina-729ad3407b7c404628ba.js.map"
     ],
     "app": [
-      "app-b47f3be2f3bec1db46f8.js",
+      "app-870198580702fce8a4d1.js",
       "build-js-styles.css",
-      "app-b47f3be2f3bec1db46f8.js.map",
+      "app-870198580702fce8a4d1.js.map",
       "build-js-styles.css.map"
+    ],
+    "path---santiago": [
+      "path---santiago-3af79b882206126e33ad.js",
+      "path---santiago-3af79b882206126e33ad.js.map"
     ]
   }
 }
