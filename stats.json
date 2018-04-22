@@ -37,24 +37,28 @@
       "path---buenos-aires-54337d9f8c8588637d5b.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-38512ee8f4ca1fd5b211.js",
-      "component---src-templates-blog-post-js-38512ee8f4ca1fd5b211.js.map"
+      "component---src-templates-blog-post-js-728cbde9c10db904e616.js",
+      "component---src-templates-blog-post-js-728cbde9c10db904e616.js.map"
+    ],
+    "path---san-pedro-de-atacama": [
+      "path---san-pedro-de-atacama-98457dc12b9a82c9199a.js",
+      "path---san-pedro-de-atacama-98457dc12b9a82c9199a.js.map"
     ],
     "path---ilha-grande-and-paraty": [
       "path---ilha-grande-and-paraty-5882bd3e375f1caafda1.js",
       "path---ilha-grande-and-paraty-5882bd3e375f1caafda1.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-bad325abaee70c60fda6.js",
-      "component---src-layouts-index-js-bad325abaee70c60fda6.js.map"
+      "component---src-layouts-index-js-7d68fcc5dee5da991915.js",
+      "component---src-layouts-index-js-7d68fcc5dee5da991915.js.map"
     ],
     "path---valparaiso": [
       "path---valparaiso-463c8928e501101e1ec3.js",
       "path---valparaiso-463c8928e501101e1ec3.js.map"
     ],
     "path---index": [
-      "path---index-3d0a7f845c219c7c441d.js",
-      "path---index-3d0a7f845c219c7c441d.js.map"
+      "path---index-a8122290982d386e603a.js",
+      "path---index-a8122290982d386e603a.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-126efcf032c622f6e38e.js",
@@ -79,14 +83,14 @@
       "path---lollapalooza-argentina-729ad3407b7c404628ba.js.map"
     ],
     "app": [
-      "app-870198580702fce8a4d1.js",
+      "app-f3da9261c8159392b201.js",
       "build-js-styles.css",
-      "app-870198580702fce8a4d1.js.map",
+      "app-f3da9261c8159392b201.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
-      "path---santiago-3af79b882206126e33ad.js",
-      "path---santiago-3af79b882206126e33ad.js.map"
+      "path---santiago-4871a0f1f6595c74e0f7.js",
+      "path---santiago-4871a0f1f6595c74e0f7.js.map"
     ]
   }
 }
