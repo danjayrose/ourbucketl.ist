@@ -41,8 +41,8 @@
       "component---src-templates-blog-post-js-728cbde9c10db904e616.js.map"
     ],
     "path---san-pedro-de-atacama": [
-      "path---san-pedro-de-atacama-1917a6de50df71fbab37.js",
-      "path---san-pedro-de-atacama-1917a6de50df71fbab37.js.map"
+      "path---san-pedro-de-atacama-22217af1e44961150755.js",
+      "path---san-pedro-de-atacama-22217af1e44961150755.js.map"
     ],
     "path---ilha-grande-and-paraty": [
       "path---ilha-grande-and-paraty-5882bd3e375f1caafda1.js",
@@ -52,13 +52,17 @@
       "component---src-layouts-index-js-7d68fcc5dee5da991915.js",
       "component---src-layouts-index-js-7d68fcc5dee5da991915.js.map"
     ],
+    "path---salar-de-uyuni": [
+      "path---salar-de-uyuni-ae82567db51fe34dc6e4.js",
+      "path---salar-de-uyuni-ae82567db51fe34dc6e4.js.map"
+    ],
     "path---valparaiso": [
       "path---valparaiso-463c8928e501101e1ec3.js",
       "path---valparaiso-463c8928e501101e1ec3.js.map"
     ],
     "path---index": [
-      "path---index-a8122290982d386e603a.js",
-      "path---index-a8122290982d386e603a.js.map"
+      "path---index-f801cb8823bc535cd8a0.js",
+      "path---index-f801cb8823bc535cd8a0.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-126efcf032c622f6e38e.js",
@@ -83,9 +87,9 @@
       "path---lollapalooza-argentina-729ad3407b7c404628ba.js.map"
     ],
     "app": [
-      "app-f3da9261c8159392b201.js",
+      "app-e2599e39510c3f77b4c6.js",
       "build-js-styles.css",
-      "app-f3da9261c8159392b201.js.map",
+      "app-e2599e39510c3f77b4c6.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
