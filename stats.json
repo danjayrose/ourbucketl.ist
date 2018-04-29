@@ -1,5 +1,9 @@
 {
   "assetsByChunkName": {
+    "path---la-paz": [
+      "path---la-paz-b1358661184693997cab.js",
+      "path---la-paz-b1358661184693997cab.js.map"
+    ],
     "path---rio-de-janeiro": [
       "path---rio-de-janeiro-57a7b0dcb16b729fc3ce.js",
       "path---rio-de-janeiro-57a7b0dcb16b729fc3ce.js.map"
@@ -53,16 +57,16 @@
       "component---src-layouts-index-js-7d68fcc5dee5da991915.js.map"
     ],
     "path---salar-de-uyuni": [
-      "path---salar-de-uyuni-ae82567db51fe34dc6e4.js",
-      "path---salar-de-uyuni-ae82567db51fe34dc6e4.js.map"
+      "path---salar-de-uyuni-15ac433647e72ae1bd1a.js",
+      "path---salar-de-uyuni-15ac433647e72ae1bd1a.js.map"
     ],
     "path---valparaiso": [
       "path---valparaiso-463c8928e501101e1ec3.js",
       "path---valparaiso-463c8928e501101e1ec3.js.map"
     ],
     "path---index": [
-      "path---index-f801cb8823bc535cd8a0.js",
-      "path---index-f801cb8823bc535cd8a0.js.map"
+      "path---index-9cf4ba46c42b8e283fad.js",
+      "path---index-9cf4ba46c42b8e283fad.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-126efcf032c622f6e38e.js",
@@ -87,9 +91,9 @@
       "path---lollapalooza-argentina-729ad3407b7c404628ba.js.map"
     ],
     "app": [
-      "app-e2599e39510c3f77b4c6.js",
+      "app-dad5b407e90c954682c8.js",
       "build-js-styles.css",
-      "app-e2599e39510c3f77b4c6.js.map",
+      "app-dad5b407e90c954682c8.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
