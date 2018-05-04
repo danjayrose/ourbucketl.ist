@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---la-paz": [
-      "path---la-paz-b1358661184693997cab.js",
-      "path---la-paz-b1358661184693997cab.js.map"
+      "path---la-paz-1271e94f8409650cc8f5.js",
+      "path---la-paz-1271e94f8409650cc8f5.js.map"
     ],
     "path---rio-de-janeiro": [
       "path---rio-de-janeiro-57a7b0dcb16b729fc3ce.js",
@@ -65,8 +65,8 @@
       "path---valparaiso-463c8928e501101e1ec3.js.map"
     ],
     "path---index": [
-      "path---index-9cf4ba46c42b8e283fad.js",
-      "path---index-9cf4ba46c42b8e283fad.js.map"
+      "path---index-26c8fd902911c17ce40b.js",
+      "path---index-26c8fd902911c17ce40b.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-126efcf032c622f6e38e.js",
@@ -91,14 +91,18 @@
       "path---lollapalooza-argentina-729ad3407b7c404628ba.js.map"
     ],
     "app": [
-      "app-dad5b407e90c954682c8.js",
+      "app-5cfe01a2ce435a6f9778.js",
       "build-js-styles.css",
-      "app-dad5b407e90c954682c8.js.map",
+      "app-5cfe01a2ce435a6f9778.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
       "path---santiago-4871a0f1f6595c74e0f7.js",
       "path---santiago-4871a0f1f6595c74e0f7.js.map"
+    ],
+    "path---lake-titicaca": [
+      "path---lake-titicaca-f604176cdb7885c75f2c.js",
+      "path---lake-titicaca-f604176cdb7885c75f2c.js.map"
     ]
   }
 }
