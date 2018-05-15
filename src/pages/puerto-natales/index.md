@@ -1,5 +1,5 @@
 ---
-title: Puerto Natales
+title: Puerto Natales, Chile
 date: "2018-03-29T22:12:03.284Z"
 image: "./blue-lake.jpg"
 ---

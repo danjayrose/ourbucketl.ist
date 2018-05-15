@@ -1,5 +1,5 @@
 ---
-title: San Carlos de Bariloche
+title: San Carlos de Bariloche, Argentina
 date: "2018-04-05T22:12:03.284Z"
 image: "./san-carlos-de-bariloche.jpg"
 ---

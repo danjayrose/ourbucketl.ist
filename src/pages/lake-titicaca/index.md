@@ -1,12 +1,12 @@
 ---
-title: Lake Titicaca
+title: Lake Titicaca, Bolivia & Peru
 date: "2018-04-29T22:12:03.284Z"
 image: "./isla-del-sol.jpg"
 ---
 
 *Local communities believe that the shape of the lake depicts that of a puma hunting the rabbit. Thus the name, Titicaca, comes from the word “Titi Khar’ka” meaning Rock of the Puma in Aymara (a local indigenous language).*
 
-<iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/xynf5d" allowfullscreen></iframe>
+<iframe frameborder="0" src="//www.dailymotion.com/embed/video/xynf5d" allowfullscreen></iframe>
 
 Donald Duck visits Lake Titicaca
 

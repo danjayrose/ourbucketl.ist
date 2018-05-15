@@ -1,5 +1,5 @@
 ---
-title: Buenos Aires
+title: Buenos Aires, Argentina
 date: "2018-03-22T22:12:03.284Z"
 image: "./labombonera.jpg"
 ---

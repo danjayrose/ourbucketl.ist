@@ -1,5 +1,5 @@
 ---
-title: Salar de Uyuni
+title: Salar de Uyuni, Bolivia
 date: "2018-04-23T22:12:03.284Z"
 image: "./salt-flats.jpg"
 ---

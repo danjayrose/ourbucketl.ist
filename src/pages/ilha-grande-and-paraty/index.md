@@ -1,5 +1,5 @@
 ---
-title: Ilha Grande & Paraty
+title: Ilha Grande & Paraty, Brazil
 date: "2018-03-11T22:12:03.284Z"
 image: "./brazil-flag.jpg"
 ---

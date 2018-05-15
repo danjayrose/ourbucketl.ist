@@ -1,5 +1,5 @@
 ---
-title: Santiago
+title: Santiago, Chile
 date: "2018-04-14T22:12:03.284Z"
 image: "./santiago-view.jpg"
 ---

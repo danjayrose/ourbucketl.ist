@@ -1,5 +1,5 @@
 ---
-title: San Pedro de Atacama
+title: San Pedro de Atacama, Chile
 date: "2018-04-17T22:12:03.284Z"
 image: "./lunar-landscapes.jpg"
 ---

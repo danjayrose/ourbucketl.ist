@@ -1,5 +1,5 @@
 ---
-title: La Paz
+title: La Paz, Bolivia
 date: "2018-04-24T22:12:03.284Z"
 image: "./la-paz.jpg"
 ---

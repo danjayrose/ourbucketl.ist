@@ -1,5 +1,5 @@
 ---
-title: Lollapalooza Argentina
+title: Lollapalooza, Argentina
 date: "2018-03-21T22:12:03.284Z"
 image: "./lollapalooza-argentina.jpg"
 ---

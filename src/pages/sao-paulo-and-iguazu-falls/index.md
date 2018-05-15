@@ -1,5 +1,5 @@
 ---
-title: Sao Paulo & Iguazu Falls
+title: Sao Paulo & Iguazu Falls, Brazil
 date: "2018-03-14T22:12:03.284Z"
 image: "./waterfalls.jpg"
 ---

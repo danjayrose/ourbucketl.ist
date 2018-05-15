@@ -1,5 +1,5 @@
 ---
-title: Mendoza
+title: Mendoza, Argentina
 date: "2018-04-09T22:12:03.284Z"
 image: "./vineyard.jpg"
 ---

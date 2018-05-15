@@ -1,5 +1,5 @@
 ---
-title: Valparaiso
+title: Valparaiso, Chile
 date: "2018-04-13T22:12:03.284Z"
 image: "./view-from-the-hills.jpg"
 ---

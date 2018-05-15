@@ -1,5 +1,5 @@
 ---
-title: Ushuaia
+title: Ushuaia, Argentina
 date: "2018-03-26T22:12:03.284Z"
 image: "./isla-martillo.jpg"
 ---
