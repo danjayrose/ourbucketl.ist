@@ -1,84 +1,88 @@
 {
   "assetsByChunkName": {
     "path---la-paz": [
-      "path---la-paz-1271e94f8409650cc8f5.js",
-      "path---la-paz-1271e94f8409650cc8f5.js.map"
+      "path---la-paz-6a96cfed3ea76a9387eb.js",
+      "path---la-paz-6a96cfed3ea76a9387eb.js.map"
     ],
     "path---rio-de-janeiro": [
-      "path---rio-de-janeiro-57a7b0dcb16b729fc3ce.js",
-      "path---rio-de-janeiro-57a7b0dcb16b729fc3ce.js.map"
+      "path---rio-de-janeiro-12f25adaf0bc140fd387.js",
+      "path---rio-de-janeiro-12f25adaf0bc140fd387.js.map"
     ],
     "path---puerto-natales": [
-      "path---puerto-natales-e86a0e5a32be7097be23.js",
-      "path---puerto-natales-e86a0e5a32be7097be23.js.map"
+      "path---puerto-natales-55aa5079643f68396936.js",
+      "path---puerto-natales-55aa5079643f68396936.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-a86cc583b61bcc8221fc.js",
       "component---src-pages-index-js-a86cc583b61bcc8221fc.js.map"
+    ],
+    "path---inca-jungle": [
+      "path---inca-jungle-058fe30c9080ad7c1851.js",
+      "path---inca-jungle-058fe30c9080ad7c1851.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---ushuaia": [
-      "path---ushuaia-29889bf2a439c30de080.js",
-      "path---ushuaia-29889bf2a439c30de080.js.map"
+      "path---ushuaia-5f8ae0e2069530b7b010.js",
+      "path---ushuaia-5f8ae0e2069530b7b010.js.map"
     ],
     "path---arequipa": [
-      "path---arequipa-fd16ffce436a05a3a402.js",
-      "path---arequipa-fd16ffce436a05a3a402.js.map"
+      "path---arequipa-096b29f614580a418efe.js",
+      "path---arequipa-096b29f614580a418efe.js.map"
     ],
     "path---sao-paulo-and-iguazu-falls": [
-      "path---sao-paulo-and-iguazu-falls-381ec78f56f4b68ca8e1.js",
-      "path---sao-paulo-and-iguazu-falls-381ec78f56f4b68ca8e1.js.map"
+      "path---sao-paulo-and-iguazu-falls-8e8242ce7aa6067f0d28.js",
+      "path---sao-paulo-and-iguazu-falls-8e8242ce7aa6067f0d28.js.map"
     ],
     "path---mendoza": [
-      "path---mendoza-f7789e5279c19c4d4769.js",
-      "path---mendoza-f7789e5279c19c4d4769.js.map"
+      "path---mendoza-1065609dde3b5d27806b.js",
+      "path---mendoza-1065609dde3b5d27806b.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---buenos-aires": [
-      "path---buenos-aires-54337d9f8c8588637d5b.js",
-      "path---buenos-aires-54337d9f8c8588637d5b.js.map"
+      "path---buenos-aires-66b62085e4ab03fdc90b.js",
+      "path---buenos-aires-66b62085e4ab03fdc90b.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-6d82699b357a605b3e10.js",
-      "component---src-templates-blog-post-js-6d82699b357a605b3e10.js.map"
+      "component---src-templates-blog-post-js-6f2820d0f2a4d166605b.js",
+      "component---src-templates-blog-post-js-6f2820d0f2a4d166605b.js.map"
     ],
     "path---san-pedro-de-atacama": [
-      "path---san-pedro-de-atacama-22217af1e44961150755.js",
-      "path---san-pedro-de-atacama-22217af1e44961150755.js.map"
+      "path---san-pedro-de-atacama-dc5036880cf32ac74cf6.js",
+      "path---san-pedro-de-atacama-dc5036880cf32ac74cf6.js.map"
     ],
     "path---ilha-grande-and-paraty": [
-      "path---ilha-grande-and-paraty-5882bd3e375f1caafda1.js",
-      "path---ilha-grande-and-paraty-5882bd3e375f1caafda1.js.map"
+      "path---ilha-grande-and-paraty-a17254d79e9b1b3e4b17.js",
+      "path---ilha-grande-and-paraty-a17254d79e9b1b3e4b17.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-9b5509299c37db68049f.js",
-      "component---src-layouts-index-js-9b5509299c37db68049f.js.map"
+      "component---src-layouts-index-js-aff675accf0cbc67a206.js",
+      "component---src-layouts-index-js-aff675accf0cbc67a206.js.map"
     ],
     "path---salar-de-uyuni": [
-      "path---salar-de-uyuni-15ac433647e72ae1bd1a.js",
-      "path---salar-de-uyuni-15ac433647e72ae1bd1a.js.map"
+      "path---salar-de-uyuni-53272440d2f4cb7ea97e.js",
+      "path---salar-de-uyuni-53272440d2f4cb7ea97e.js.map"
     ],
     "path---valparaiso": [
-      "path---valparaiso-463c8928e501101e1ec3.js",
-      "path---valparaiso-463c8928e501101e1ec3.js.map"
+      "path---valparaiso-f2058668a43a037ec909.js",
+      "path---valparaiso-f2058668a43a037ec909.js.map"
     ],
     "path---index": [
-      "path---index-50cf716058a82fe55572.js",
-      "path---index-50cf716058a82fe55572.js.map"
+      "path---index-c4faaf9ec7774c0ac04f.js",
+      "path---index-c4faaf9ec7774c0ac04f.js.map"
     ],
     "path---el-calafate": [
-      "path---el-calafate-126efcf032c622f6e38e.js",
-      "path---el-calafate-126efcf032c622f6e38e.js.map"
+      "path---el-calafate-ec3d35ebce5447ce054f.js",
+      "path---el-calafate-ec3d35ebce5447ce054f.js.map"
     ],
     "path---san-carlos-de-bariloche": [
-      "path---san-carlos-de-bariloche-9b907b92da65de2de771.js",
-      "path---san-carlos-de-bariloche-9b907b92da65de2de771.js.map"
+      "path---san-carlos-de-bariloche-f882d0080df730fa4603.js",
+      "path---san-carlos-de-bariloche-f882d0080df730fa4603.js.map"
     ],
     "commons": [
       "commons-d27b2d4800120666d7b5.js",
@@ -91,22 +95,18 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---lollapalooza-argentina": [
-      "path---lollapalooza-argentina-729ad3407b7c404628ba.js",
-      "path---lollapalooza-argentina-729ad3407b7c404628ba.js.map"
+      "path---lollapalooza-argentina-501c4c78669e95c227bc.js",
+      "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-88358c9585ed084810d6.js",
+      "app-9a3e0b7d61623d0b9d05.js",
       "build-js-styles.css",
-      "app-88358c9585ed084810d6.js.map",
+      "app-9a3e0b7d61623d0b9d05.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
-      "path---santiago-4871a0f1f6595c74e0f7.js",
-      "path---santiago-4871a0f1f6595c74e0f7.js.map"
-    ],
-    "path---lake-titicaca": [
-      "path---lake-titicaca-80aa1f41349d1f201147.js",
-      "path---lake-titicaca-80aa1f41349d1f201147.js.map"
+      "path---santiago-84b562780b905d10d5e9.js",
+      "path---santiago-84b562780b905d10d5e9.js.map"
     ]
   }
 }
