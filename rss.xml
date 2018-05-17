@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ourbucketl.ist]]></title><description><![CDATA[Travel Blog]]></description><link>https://ourbucketl.ist/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 17:47:03 GMT</lastBuildDate><item><title><![CDATA[Cusco, Peru]]></title><description><![CDATA[“The word that most perfectly describes the city of Cusco is evocative. Intangible dust of another era settles on its streets, rising like…]]></description><link>https://ourbucketl.ist//cusco/</link><guid isPermaLink="false">https://ourbucketl.ist//cusco/</guid><pubDate>Wed, 09 May 2018 22:12:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ourbucketl.ist]]></title><description><![CDATA[Travel Blog]]></description><link>https://ourbucketl.ist/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 17 May 2018 17:50:37 GMT</lastBuildDate><item><title><![CDATA[Cusco, Peru]]></title><description><![CDATA[“The word that most perfectly describes the city of Cusco is evocative. Intangible dust of another era settles on its streets, rising like…]]></description><link>https://ourbucketl.ist//cusco/</link><guid isPermaLink="false">https://ourbucketl.ist//cusco/</guid><pubDate>Wed, 09 May 2018 22:12:03 GMT</pubDate><content:encoded>&lt;blockquote&gt;
 &lt;p&gt;“The word that most perfectly describes the city of Cusco is evocative. Intangible dust of another era settles on its streets, rising like the disturbed sediment of a muddy lake when you touch its bottom.”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Che Guevara&lt;/p&gt;
@@ -358,9 +358,9 @@
 &lt;div&gt;
           &lt;div
             class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1rem&quot;
           &gt;
-            &lt;iframe src=&quot;https://www.youtube.com/embed/sGIm0-dQd8M&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen style=&quot;
+            &lt;iframe src=&quot;https://www.youtube.com/embed/sGIm0-dQd8M?rel=0&amp;amp;controls=0&amp;amp;showinfo=0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen style=&quot;
             position: absolute;
             top: 0;
             left: 0;
@@ -1154,7 +1154,7 @@
 &lt;div&gt;
           &lt;div
             class=&quot;gatsby-resp-iframe-wrapper&quot;
-            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1.0725rem&quot;
+            style=&quot;padding-bottom: 56.25%; position: relative; height: 0; overflow: hidden;margin-bottom: 1rem&quot;
           &gt;
             &lt;iframe frameborder=&quot;0&quot; src=&quot;//www.dailymotion.com/embed/video/xynf5d&quot; allowfullscreen allow=&quot;autoplay&quot; style=&quot;
             position: absolute;
