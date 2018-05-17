@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "path---la-paz": [
-      "path---la-paz-6a96cfed3ea76a9387eb.js",
-      "path---la-paz-6a96cfed3ea76a9387eb.js.map"
+      "path---la-paz-ce16d6b15d456a59d5f6.js",
+      "path---la-paz-ce16d6b15d456a59d5f6.js.map"
     ],
     "path---rio-de-janeiro": [
       "path---rio-de-janeiro-12f25adaf0bc140fd387.js",
@@ -17,8 +17,8 @@
       "component---src-pages-index-js-a86cc583b61bcc8221fc.js.map"
     ],
     "path---inca-jungle": [
-      "path---inca-jungle-058fe30c9080ad7c1851.js",
-      "path---inca-jungle-058fe30c9080ad7c1851.js.map"
+      "path---inca-jungle-43ddc33515c7f039baf6.js",
+      "path---inca-jungle-43ddc33515c7f039baf6.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -29,8 +29,8 @@
       "path---ushuaia-5f8ae0e2069530b7b010.js.map"
     ],
     "path---arequipa": [
-      "path---arequipa-096b29f614580a418efe.js",
-      "path---arequipa-096b29f614580a418efe.js.map"
+      "path---arequipa-fe3b620a6b167dedb90e.js",
+      "path---arequipa-fe3b620a6b167dedb90e.js.map"
     ],
     "path---sao-paulo-and-iguazu-falls": [
       "path---sao-paulo-and-iguazu-falls-8e8242ce7aa6067f0d28.js",
@@ -73,8 +73,8 @@
       "path---valparaiso-f2058668a43a037ec909.js.map"
     ],
     "path---index": [
-      "path---index-c4faaf9ec7774c0ac04f.js",
-      "path---index-c4faaf9ec7774c0ac04f.js.map"
+      "path---index-b00c70aeb1920c734419.js",
+      "path---index-b00c70aeb1920c734419.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -90,6 +90,10 @@
       "commons-d27b2d4800120666d7b5.js.map",
       "build-js-styles.css.map"
     ],
+    "path---cusco": [
+      "path---cusco-99b39be11259c0db5258.js",
+      "path---cusco-99b39be11259c0db5258.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
@@ -99,14 +103,18 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-9a3e0b7d61623d0b9d05.js",
+      "app-f610fa6ff23fd97aad63.js",
       "build-js-styles.css",
-      "app-9a3e0b7d61623d0b9d05.js.map",
+      "app-f610fa6ff23fd97aad63.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
       "path---santiago-84b562780b905d10d5e9.js",
       "path---santiago-84b562780b905d10d5e9.js.map"
+    ],
+    "path---lake-titicaca": [
+      "path---lake-titicaca-41322f38274d67d6534f.js",
+      "path---lake-titicaca-41322f38274d67d6534f.js.map"
     ]
   }
 }
