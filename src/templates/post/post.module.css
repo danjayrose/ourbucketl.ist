@@ -44,6 +44,15 @@
     & blockquote {
         font-style: italic;
     }
+
+    & ul {
+        margin: 2rem 0;
+        padding: 0 0 0 3rem;
+    }
+
+    & li p {
+        margin: 0;
+    }
 }
 
 .pagination {
