@@ -4,7 +4,7 @@ date: "2018-05-05T22:12:03.284Z"
 image: "./machu-picchu.jpg"
 ---
 
->“I'm struggling here, if I'm honest with you. I don't know how to sell it with... Do you like llamas?.”
+>“I'm struggling here, if I'm honest with you. I don't know how to sell it with... Do you like llamas?”
 
 Karl Pilkington on Machu Picchu.
 

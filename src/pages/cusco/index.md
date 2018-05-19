@@ -68,7 +68,7 @@ We discovered Peruvian food in Arequipa but it just seemed to get better and bet
 
 Again we had more than our fill of Pisco Sours as there seemed to be happy hour everywhere all day! We went to [Mama Africa](https://www.theonlyperuguide.com/peru-guide/cusco/nightlife/mama-africas/), a club that offered free salsa lessons, but again Dan couldn’t be convinced to dance salsa. However, we did go there after a bit later on; people were dancing on the bar to reggaeton music and had their faces painted. We definitely have a song of South America now too.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/sGIm0-dQd8M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/sGIm0-dQd8M?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ##Our Verdict on Cusco
 We loved this city and we were gutted we couldn’t spent longer there. There were so many things we didn’t have time to do; a tour of the Sacred Valley, Sacsaywaman, Rainbow Mountain and there were lots of churches and museums we didn’t have time to explore. Cusco, we’ll be back!
