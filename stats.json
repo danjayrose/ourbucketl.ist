@@ -69,8 +69,8 @@
       "component---src-layouts-index-js-196a14ab7ff1b3697381.js.map"
     ],
     "path---huaraz": [
-      "path---huaraz-86b7039786482d4d4eca.js",
-      "path---huaraz-86b7039786482d4d4eca.js.map"
+      "path---huaraz-5a46c958a74d2abdfcad.js",
+      "path---huaraz-5a46c958a74d2abdfcad.js.map"
     ],
     "path---salar-de-uyuni": [
       "path---salar-de-uyuni-53272440d2f4cb7ea97e.js",
@@ -81,8 +81,8 @@
       "path---valparaiso-73bf80c622f5bac55208.js.map"
     ],
     "path---index": [
-      "path---index-63c746b5fa71614d3f29.js",
-      "path---index-63c746b5fa71614d3f29.js.map"
+      "path---index-088817b71083dc5c61e3.js",
+      "path---index-088817b71083dc5c61e3.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -115,9 +115,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-4d7c7b1b26cec09c9b01.js",
+      "app-63f062d078d78dfe1972.js",
       "build-js-styles.css",
-      "app-4d7c7b1b26cec09c9b01.js.map",
+      "app-63f062d078d78dfe1972.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
@@ -127,6 +127,10 @@
     "path---lake-titicaca": [
       "path---lake-titicaca-853da15ea43ca2abf34d.js",
       "path---lake-titicaca-853da15ea43ca2abf34d.js.map"
+    ],
+    "path---huanchaco": [
+      "path---huanchaco-67e6f1e143b0852ff458.js",
+      "path---huanchaco-67e6f1e143b0852ff458.js.map"
     ]
   }
 }
