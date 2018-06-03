@@ -81,8 +81,8 @@
       "path---valparaiso-73bf80c622f5bac55208.js.map"
     ],
     "path---index": [
-      "path---index-5607de79e603dbf5a60d.js",
-      "path---index-5607de79e603dbf5a60d.js.map"
+      "path---index-c36543b448bbeeb31fbb.js",
+      "path---index-c36543b448bbeeb31fbb.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -102,6 +102,10 @@
       "path---cusco-a7e879b72aca2bdbe26a.js",
       "path---cusco-a7e879b72aca2bdbe26a.js.map"
     ],
+    "path---lima": [
+      "path---lima-ff04a82a27f2d5d01be3.js",
+      "path---lima-ff04a82a27f2d5d01be3.js.map"
+    ],
     "path---the-amazon-rainforest": [
       "path---the-amazon-rainforest-6b4e19abfd42e9064dff.js",
       "path---the-amazon-rainforest-6b4e19abfd42e9064dff.js.map"
@@ -115,9 +119,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-63f062d078d78dfe1972.js",
+      "app-894af4f357ee4ade1152.js",
       "build-js-styles.css",
-      "app-63f062d078d78dfe1972.js.map",
+      "app-894af4f357ee4ade1152.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
@@ -129,8 +133,8 @@
       "path---lake-titicaca-853da15ea43ca2abf34d.js.map"
     ],
     "path---huanchaco": [
-      "path---huanchaco-8d4d78cbc2df2823be67.js",
-      "path---huanchaco-8d4d78cbc2df2823be67.js.map"
+      "path---huanchaco-31eca8f5fe55a39de7cf.js",
+      "path---huanchaco-31eca8f5fe55a39de7cf.js.map"
     ]
   }
 }
