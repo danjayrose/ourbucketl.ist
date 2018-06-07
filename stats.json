@@ -44,6 +44,10 @@
       "path---mendoza-67865c1f51877c406698.js",
       "path---mendoza-67865c1f51877c406698.js.map"
     ],
+    "path---bogota": [
+      "path---bogota-16e3d0dbad7f21f4c9c1.js",
+      "path---bogota-16e3d0dbad7f21f4c9c1.js.map"
+    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
@@ -81,8 +85,8 @@
       "path---valparaiso-73bf80c622f5bac55208.js.map"
     ],
     "path---index": [
-      "path---index-c36543b448bbeeb31fbb.js",
-      "path---index-c36543b448bbeeb31fbb.js.map"
+      "path---index-a5e0f62d4d7122cd9581.js",
+      "path---index-a5e0f62d4d7122cd9581.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -103,8 +107,8 @@
       "path---cusco-a7e879b72aca2bdbe26a.js.map"
     ],
     "path---lima": [
-      "path---lima-ff04a82a27f2d5d01be3.js",
-      "path---lima-ff04a82a27f2d5d01be3.js.map"
+      "path---lima-9257aac1db9ff89cf213.js",
+      "path---lima-9257aac1db9ff89cf213.js.map"
     ],
     "path---the-amazon-rainforest": [
       "path---the-amazon-rainforest-6b4e19abfd42e9064dff.js",
@@ -119,9 +123,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-894af4f357ee4ade1152.js",
+      "app-3ca3f4f6fbfe3aa6e6e4.js",
       "build-js-styles.css",
-      "app-894af4f357ee4ade1152.js.map",
+      "app-3ca3f4f6fbfe3aa6e6e4.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
