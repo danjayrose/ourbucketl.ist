@@ -45,8 +45,8 @@
       "path---mendoza-67865c1f51877c406698.js.map"
     ],
     "path---bogota": [
-      "path---bogota-14b78952637a9023cddd.js",
-      "path---bogota-14b78952637a9023cddd.js.map"
+      "path---bogota-1484dac39ff05f3bcfda.js",
+      "path---bogota-1484dac39ff05f3bcfda.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
@@ -85,8 +85,8 @@
       "path---valparaiso-73bf80c622f5bac55208.js.map"
     ],
     "path---index": [
-      "path---index-a5e0f62d4d7122cd9581.js",
-      "path---index-a5e0f62d4d7122cd9581.js.map"
+      "path---index-e3bd5baa68fa19d5d657.js",
+      "path---index-e3bd5baa68fa19d5d657.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -123,14 +123,18 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-3ca3f4f6fbfe3aa6e6e4.js",
+      "app-3f77c86a2cd887e25f25.js",
       "build-js-styles.css",
-      "app-3ca3f4f6fbfe3aa6e6e4.js.map",
+      "app-3f77c86a2cd887e25f25.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
       "path---santiago-ef8027f3d9d0bfc8afd6.js",
       "path---santiago-ef8027f3d9d0bfc8afd6.js.map"
+    ],
+    "path---salento": [
+      "path---salento-28d4ccf5964595196989.js",
+      "path---salento-28d4ccf5964595196989.js.map"
     ],
     "path---lake-titicaca": [
       "path---lake-titicaca-853da15ea43ca2abf34d.js",
