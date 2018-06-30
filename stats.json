@@ -20,6 +20,10 @@
       "component---src-pages-index-js-a86cc583b61bcc8221fc.js",
       "component---src-pages-index-js-a86cc583b61bcc8221fc.js.map"
     ],
+    "path---san-andres-island": [
+      "path---san-andres-island-b08b67809dcb8052be23.js",
+      "path---san-andres-island-b08b67809dcb8052be23.js.map"
+    ],
     "path---inca-jungle": [
       "path---inca-jungle-43ddc33515c7f039baf6.js",
       "path---inca-jungle-43ddc33515c7f039baf6.js.map"
@@ -85,12 +89,12 @@
       "path---valparaiso-73bf80c622f5bac55208.js.map"
     ],
     "path---santa-marta": [
-      "path---santa-marta-571bcbd4d3b89459abc0.js",
-      "path---santa-marta-571bcbd4d3b89459abc0.js.map"
+      "path---santa-marta-8c8996ded75ddf56a04b.js",
+      "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-80360bb7c778d4aaed93.js",
-      "path---index-80360bb7c778d4aaed93.js.map"
+      "path---index-eca6dbc2cec1d53cc707.js",
+      "path---index-eca6dbc2cec1d53cc707.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -111,8 +115,8 @@
       "path---cusco-a7e879b72aca2bdbe26a.js.map"
     ],
     "path---cartagena": [
-      "path---cartagena-a07d7cce1ca578257219.js",
-      "path---cartagena-a07d7cce1ca578257219.js.map"
+      "path---cartagena-6bb48642ecc6c32e0e6b.js",
+      "path---cartagena-6bb48642ecc6c32e0e6b.js.map"
     ],
     "path---lima": [
       "path---lima-9257aac1db9ff89cf213.js",
@@ -131,9 +135,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-4587e151bca15e1a4ab3.js",
+      "app-2bfd7c0762637082618e.js",
       "build-js-styles.css",
-      "app-4587e151bca15e1a4ab3.js.map",
+      "app-2bfd7c0762637082618e.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
