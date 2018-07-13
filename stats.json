@@ -21,8 +21,8 @@
       "component---src-pages-index-js-a86cc583b61bcc8221fc.js.map"
     ],
     "path---san-andres-island": [
-      "path---san-andres-island-b08b67809dcb8052be23.js",
-      "path---san-andres-island-b08b67809dcb8052be23.js.map"
+      "path---san-andres-island-6cfc9e5c5724cb94a795.js",
+      "path---san-andres-island-6cfc9e5c5724cb94a795.js.map"
     ],
     "path---inca-jungle": [
       "path---inca-jungle-43ddc33515c7f039baf6.js",
@@ -93,8 +93,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-eca6dbc2cec1d53cc707.js",
-      "path---index-eca6dbc2cec1d53cc707.js.map"
+      "path---index-a4d66281beab0d7be6a5.js",
+      "path---index-a4d66281beab0d7be6a5.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -135,9 +135,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-2bfd7c0762637082618e.js",
+      "app-7d220ee258c3a0cf2a2d.js",
       "build-js-styles.css",
-      "app-2bfd7c0762637082618e.js.map",
+      "app-7d220ee258c3a0cf2a2d.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
@@ -151,6 +151,10 @@
     "path---salento": [
       "path---salento-e294c2c9f8e6c0c8f5b0.js",
       "path---salento-e294c2c9f8e6c0c8f5b0.js.map"
+    ],
+    "path---el-valle": [
+      "path---el-valle-b3ab1b11fff662e20386.js",
+      "path---el-valle-b3ab1b11fff662e20386.js.map"
     ],
     "path---lake-titicaca": [
       "path---lake-titicaca-853da15ea43ca2abf34d.js",
