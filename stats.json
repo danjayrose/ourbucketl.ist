@@ -48,6 +48,10 @@
       "path---mendoza-67865c1f51877c406698.js",
       "path---mendoza-67865c1f51877c406698.js.map"
     ],
+    "path---san-blas-islands": [
+      "path---san-blas-islands-2872b29483456c214047.js",
+      "path---san-blas-islands-2872b29483456c214047.js.map"
+    ],
     "path---bogota": [
       "path---bogota-1484dac39ff05f3bcfda.js",
       "path---bogota-1484dac39ff05f3bcfda.js.map"
@@ -93,8 +97,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-a4d66281beab0d7be6a5.js",
-      "path---index-a4d66281beab0d7be6a5.js.map"
+      "path---index-e3260154ceea717a5ca8.js",
+      "path---index-e3260154ceea717a5ca8.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -135,14 +139,18 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-7d220ee258c3a0cf2a2d.js",
+      "app-f914916317a6e52caacd.js",
       "build-js-styles.css",
-      "app-7d220ee258c3a0cf2a2d.js.map",
+      "app-f914916317a6e52caacd.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
       "path---santiago-ef8027f3d9d0bfc8afd6.js",
       "path---santiago-ef8027f3d9d0bfc8afd6.js.map"
+    ],
+    "path---panama-city": [
+      "path---panama-city-7941099720f04773ed8c.js",
+      "path---panama-city-7941099720f04773ed8c.js.map"
     ],
     "path---medellin": [
       "path---medellin-93545198ff9d19453706.js",
@@ -153,8 +161,8 @@
       "path---salento-e294c2c9f8e6c0c8f5b0.js.map"
     ],
     "path---el-valle": [
-      "path---el-valle-b3ab1b11fff662e20386.js",
-      "path---el-valle-b3ab1b11fff662e20386.js.map"
+      "path---el-valle-903809fafd39e31d1036.js",
+      "path---el-valle-903809fafd39e31d1036.js.map"
     ],
     "path---lake-titicaca": [
       "path---lake-titicaca-853da15ea43ca2abf34d.js",
