@@ -52,6 +52,10 @@
       "path---san-blas-islands-2872b29483456c214047.js",
       "path---san-blas-islands-2872b29483456c214047.js.map"
     ],
+    "path---las-vegas": [
+      "path---las-vegas-0c2d1781835376383dec.js",
+      "path---las-vegas-0c2d1781835376383dec.js.map"
+    ],
     "path---bogota": [
       "path---bogota-1484dac39ff05f3bcfda.js",
       "path---bogota-1484dac39ff05f3bcfda.js.map"
@@ -97,8 +101,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-4bb17590a6a95489c89c.js",
-      "path---index-4bb17590a6a95489c89c.js.map"
+      "path---index-81c1fc1bb25aaf0a2796.js",
+      "path---index-81c1fc1bb25aaf0a2796.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -115,8 +119,8 @@
       "build-js-styles.css.map"
     ],
     "path---los-angeles": [
-      "path---los-angeles-ff6273bd50b23d93a7f6.js",
-      "path---los-angeles-ff6273bd50b23d93a7f6.js.map"
+      "path---los-angeles-2b57739ff84914fc1b4e.js",
+      "path---los-angeles-2b57739ff84914fc1b4e.js.map"
     ],
     "path---cusco": [
       "path---cusco-a7e879b72aca2bdbe26a.js",
@@ -143,9 +147,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-ec37bc70d5130d665f8d.js",
+      "app-06323534fd5844eb0d27.js",
       "build-js-styles.css",
-      "app-ec37bc70d5130d665f8d.js.map",
+      "app-06323534fd5844eb0d27.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
