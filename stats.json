@@ -28,6 +28,10 @@
       "path---inca-jungle-43ddc33515c7f039baf6.js",
       "path---inca-jungle-43ddc33515c7f039baf6.js.map"
     ],
+    "path---auckland-and-paihia": [
+      "path---auckland-and-paihia-a44b030f829433a10654.js",
+      "path---auckland-and-paihia-a44b030f829433a10654.js.map"
+    ],
     "path---": [
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
@@ -53,8 +57,8 @@
       "path---san-blas-islands-2872b29483456c214047.js.map"
     ],
     "path---las-vegas": [
-      "path---las-vegas-0c2d1781835376383dec.js",
-      "path---las-vegas-0c2d1781835376383dec.js.map"
+      "path---las-vegas-67983b13fd2566d00bf6.js",
+      "path---las-vegas-67983b13fd2566d00bf6.js.map"
     ],
     "path---bogota": [
       "path---bogota-1484dac39ff05f3bcfda.js",
@@ -101,12 +105,16 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-81c1fc1bb25aaf0a2796.js",
-      "path---index-81c1fc1bb25aaf0a2796.js.map"
+      "path---index-0bc23ed8c6e7c9ff09c6.js",
+      "path---index-0bc23ed8c6e7c9ff09c6.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
       "path---el-calafate-ec3d35ebce5447ce054f.js.map"
+    ],
+    "path---rotorua": [
+      "path---rotorua-73f10173c67e5f1f797b.js",
+      "path---rotorua-73f10173c67e5f1f797b.js.map"
     ],
     "path---san-carlos-de-bariloche": [
       "path---san-carlos-de-bariloche-f882d0080df730fa4603.js",
@@ -147,9 +155,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-06323534fd5844eb0d27.js",
+      "app-99a8ac621cb5676eda03.js",
       "build-js-styles.css",
-      "app-06323534fd5844eb0d27.js.map",
+      "app-99a8ac621cb5676eda03.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
