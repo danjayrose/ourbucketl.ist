@@ -28,9 +28,13 @@
       "path---inca-jungle-43ddc33515c7f039baf6.js",
       "path---inca-jungle-43ddc33515c7f039baf6.js.map"
     ],
+    "path---taupo": [
+      "path---taupo-200b7b6b61feae37cab5.js",
+      "path---taupo-200b7b6b61feae37cab5.js.map"
+    ],
     "path---auckland-and-paihia": [
-      "path---auckland-and-paihia-a44b030f829433a10654.js",
-      "path---auckland-and-paihia-a44b030f829433a10654.js.map"
+      "path---auckland-and-paihia-8b2e4c3dfdd6ee87a2a1.js",
+      "path---auckland-and-paihia-8b2e4c3dfdd6ee87a2a1.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -57,8 +61,8 @@
       "path---san-blas-islands-2872b29483456c214047.js.map"
     ],
     "path---las-vegas": [
-      "path---las-vegas-67983b13fd2566d00bf6.js",
-      "path---las-vegas-67983b13fd2566d00bf6.js.map"
+      "path---las-vegas-ce18fab7b0aee32e00c8.js",
+      "path---las-vegas-ce18fab7b0aee32e00c8.js.map"
     ],
     "path---bogota": [
       "path---bogota-1484dac39ff05f3bcfda.js",
@@ -73,8 +77,8 @@
       "path---buenos-aires-66b62085e4ab03fdc90b.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-af9fb299824b1aaea619.js",
-      "component---src-templates-blog-post-js-af9fb299824b1aaea619.js.map"
+      "component---src-templates-blog-post-js-639c84e28fb2e689d9a9.js",
+      "component---src-templates-blog-post-js-639c84e28fb2e689d9a9.js.map"
     ],
     "path---san-pedro-de-atacama": [
       "path---san-pedro-de-atacama-dc5036880cf32ac74cf6.js",
@@ -85,8 +89,8 @@
       "path---ilha-grande-and-paraty-a17254d79e9b1b3e4b17.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-196a14ab7ff1b3697381.js",
-      "component---src-layouts-index-js-196a14ab7ff1b3697381.js.map"
+      "component---src-layouts-index-js-01cc4d70fe9c9a72dbed.js",
+      "component---src-layouts-index-js-01cc4d70fe9c9a72dbed.js.map"
     ],
     "path---huaraz": [
       "path---huaraz-5a46c958a74d2abdfcad.js",
@@ -105,16 +109,20 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-0bc23ed8c6e7c9ff09c6.js",
-      "path---index-0bc23ed8c6e7c9ff09c6.js.map"
+      "path---index-b5a45ef52bec6bdeb7bb.js",
+      "path---index-b5a45ef52bec6bdeb7bb.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
       "path---el-calafate-ec3d35ebce5447ce054f.js.map"
     ],
     "path---rotorua": [
-      "path---rotorua-73f10173c67e5f1f797b.js",
-      "path---rotorua-73f10173c67e5f1f797b.js.map"
+      "path---rotorua-9933b95df6d732818f4e.js",
+      "path---rotorua-9933b95df6d732818f4e.js.map"
+    ],
+    "path---wellington": [
+      "path---wellington-cbd5cc11e6140b4765bb.js",
+      "path---wellington-cbd5cc11e6140b4765bb.js.map"
     ],
     "path---san-carlos-de-bariloche": [
       "path---san-carlos-de-bariloche-f882d0080df730fa4603.js",
@@ -155,9 +163,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-99a8ac621cb5676eda03.js",
+      "app-85db85e5b90c6b63d008.js",
       "build-js-styles.css",
-      "app-99a8ac621cb5676eda03.js.map",
+      "app-85db85e5b90c6b63d008.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
