@@ -29,8 +29,12 @@
       "path---inca-jungle-43ddc33515c7f039baf6.js.map"
     ],
     "path---taupo": [
-      "path---taupo-200b7b6b61feae37cab5.js",
-      "path---taupo-200b7b6b61feae37cab5.js.map"
+      "path---taupo-a30f41ef90d2b4837d50.js",
+      "path---taupo-a30f41ef90d2b4837d50.js.map"
+    ],
+    "path---nelson-and-fox": [
+      "path---nelson-and-fox-72ed4d0c70179b21a576.js",
+      "path---nelson-and-fox-72ed4d0c70179b21a576.js.map"
     ],
     "path---auckland-and-paihia": [
       "path---auckland-and-paihia-8b2e4c3dfdd6ee87a2a1.js",
@@ -109,8 +113,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-b5a45ef52bec6bdeb7bb.js",
-      "path---index-b5a45ef52bec6bdeb7bb.js.map"
+      "path---index-667b74d41387a484f8c6.js",
+      "path---index-667b74d41387a484f8c6.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -121,8 +125,8 @@
       "path---rotorua-9933b95df6d732818f4e.js.map"
     ],
     "path---wellington": [
-      "path---wellington-cbd5cc11e6140b4765bb.js",
-      "path---wellington-cbd5cc11e6140b4765bb.js.map"
+      "path---wellington-8081b1b6054d24e7b94c.js",
+      "path---wellington-8081b1b6054d24e7b94c.js.map"
     ],
     "path---san-carlos-de-bariloche": [
       "path---san-carlos-de-bariloche-f882d0080df730fa4603.js",
@@ -163,9 +167,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-85db85e5b90c6b63d008.js",
+      "app-0da2c842ea96563e010b.js",
       "build-js-styles.css",
-      "app-85db85e5b90c6b63d008.js.map",
+      "app-0da2c842ea96563e010b.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
