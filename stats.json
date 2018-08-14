@@ -29,12 +29,12 @@
       "path---inca-jungle-43ddc33515c7f039baf6.js.map"
     ],
     "path---taupo": [
-      "path---taupo-a30f41ef90d2b4837d50.js",
-      "path---taupo-a30f41ef90d2b4837d50.js.map"
+      "path---taupo-200b7b6b61feae37cab5.js",
+      "path---taupo-200b7b6b61feae37cab5.js.map"
     ],
     "path---nelson-and-fox": [
-      "path---nelson-and-fox-72ed4d0c70179b21a576.js",
-      "path---nelson-and-fox-72ed4d0c70179b21a576.js.map"
+      "path---nelson-and-fox-a4f33039a158f81c7171.js",
+      "path---nelson-and-fox-a4f33039a158f81c7171.js.map"
     ],
     "path---auckland-and-paihia": [
       "path---auckland-and-paihia-8b2e4c3dfdd6ee87a2a1.js",
@@ -80,6 +80,10 @@
       "path---buenos-aires-66b62085e4ab03fdc90b.js",
       "path---buenos-aires-66b62085e4ab03fdc90b.js.map"
     ],
+    "path---lake-wanaka": [
+      "path---lake-wanaka-1e1125ced23cf6fddfab.js",
+      "path---lake-wanaka-1e1125ced23cf6fddfab.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-639c84e28fb2e689d9a9.js",
       "component---src-templates-blog-post-js-639c84e28fb2e689d9a9.js.map"
@@ -113,8 +117,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-667b74d41387a484f8c6.js",
-      "path---index-667b74d41387a484f8c6.js.map"
+      "path---index-6bb305e0f3c359cd54e3.js",
+      "path---index-6bb305e0f3c359cd54e3.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -125,8 +129,8 @@
       "path---rotorua-9933b95df6d732818f4e.js.map"
     ],
     "path---wellington": [
-      "path---wellington-8081b1b6054d24e7b94c.js",
-      "path---wellington-8081b1b6054d24e7b94c.js.map"
+      "path---wellington-248c768a37fdbe39d737.js",
+      "path---wellington-248c768a37fdbe39d737.js.map"
     ],
     "path---san-carlos-de-bariloche": [
       "path---san-carlos-de-bariloche-f882d0080df730fa4603.js",
@@ -167,9 +171,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-0da2c842ea96563e010b.js",
+      "app-40da6e701c00eb5f9e0e.js",
       "build-js-styles.css",
-      "app-0da2c842ea96563e010b.js.map",
+      "app-40da6e701c00eb5f9e0e.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
