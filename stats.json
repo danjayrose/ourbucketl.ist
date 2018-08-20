@@ -117,8 +117,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-63b09f64c0c099f2b575.js",
-      "path---index-63b09f64c0c099f2b575.js.map"
+      "path---index-0359a1a7b9b16ae90459.js",
+      "path---index-0359a1a7b9b16ae90459.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -132,13 +132,17 @@
       "path---wellington-248c768a37fdbe39d737.js",
       "path---wellington-248c768a37fdbe39d737.js.map"
     ],
+    "path---dunedin": [
+      "path---dunedin-f2e811535b288dc4df74.js",
+      "path---dunedin-f2e811535b288dc4df74.js.map"
+    ],
     "path---san-carlos-de-bariloche": [
       "path---san-carlos-de-bariloche-f882d0080df730fa4603.js",
       "path---san-carlos-de-bariloche-f882d0080df730fa4603.js.map"
     ],
     "path---queenstown-and-mt-cook": [
-      "path---queenstown-and-mt-cook-9911f6f569972463af8d.js",
-      "path---queenstown-and-mt-cook-9911f6f569972463af8d.js.map"
+      "path---queenstown-and-mt-cook-7d83f43f3d6c80e90bee.js",
+      "path---queenstown-and-mt-cook-7d83f43f3d6c80e90bee.js.map"
     ],
     "commons": [
       "commons-d27b2d4800120666d7b5.js",
@@ -175,9 +179,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-f5b539f5895157cd380f.js",
+      "app-bc0f8a516b2cae55e5b4.js",
       "build-js-styles.css",
-      "app-f5b539f5895157cd380f.js.map",
+      "app-bc0f8a516b2cae55e5b4.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
