@@ -52,6 +52,10 @@
       "path---arequipa-fe3b620a6b167dedb90e.js",
       "path---arequipa-fe3b620a6b167dedb90e.js.map"
     ],
+    "path---christchurch-and-kaikoura": [
+      "path---christchurch-and-kaikoura-410a7bc906a4d6cd53d1.js",
+      "path---christchurch-and-kaikoura-410a7bc906a4d6cd53d1.js.map"
+    ],
     "path---sao-paulo-and-iguazu-falls": [
       "path---sao-paulo-and-iguazu-falls-8e8242ce7aa6067f0d28.js",
       "path---sao-paulo-and-iguazu-falls-8e8242ce7aa6067f0d28.js.map"
@@ -117,8 +121,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-0359a1a7b9b16ae90459.js",
-      "path---index-0359a1a7b9b16ae90459.js.map"
+      "path---index-df8945ceb44cbf01bdae.js",
+      "path---index-df8945ceb44cbf01bdae.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -133,8 +137,8 @@
       "path---wellington-248c768a37fdbe39d737.js.map"
     ],
     "path---dunedin": [
-      "path---dunedin-69ff459fac91748cc961.js",
-      "path---dunedin-69ff459fac91748cc961.js.map"
+      "path---dunedin-99edfa82df141d3b3fa7.js",
+      "path---dunedin-99edfa82df141d3b3fa7.js.map"
     ],
     "path---san-carlos-de-bariloche": [
       "path---san-carlos-de-bariloche-f882d0080df730fa4603.js",
@@ -179,9 +183,9 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "app": [
-      "app-bc0f8a516b2cae55e5b4.js",
+      "app-da1ad29e5f16c95a12a5.js",
       "build-js-styles.css",
-      "app-bc0f8a516b2cae55e5b4.js.map",
+      "app-da1ad29e5f16c95a12a5.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
