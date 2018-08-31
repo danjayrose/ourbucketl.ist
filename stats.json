@@ -41,8 +41,8 @@
       "path---auckland-and-paihia-8b2e4c3dfdd6ee87a2a1.js.map"
     ],
     "path---kuala-lumpur": [
-      "path---kuala-lumpur-df9f50f16d6649e3dfad.js",
-      "path---kuala-lumpur-df9f50f16d6649e3dfad.js.map"
+      "path---kuala-lumpur-b3a0eec501af381cd1a9.js",
+      "path---kuala-lumpur-b3a0eec501af381cd1a9.js.map"
     ],
     "path---": [
       "path----557518bd178906f8d58a.js",
@@ -125,8 +125,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-108035e68c5d3bc79087.js",
-      "path---index-108035e68c5d3bc79087.js.map"
+      "path---index-73d41d10734c639ad61d.js",
+      "path---index-73d41d10734c639ad61d.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -186,10 +186,14 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js",
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
+    "path---cameron-highland": [
+      "path---cameron-highland-0b51ce7fc3400916bd92.js",
+      "path---cameron-highland-0b51ce7fc3400916bd92.js.map"
+    ],
     "app": [
-      "app-bbb76872e3b442496f05.js",
+      "app-0e8dacfcaef5e2b93d9d.js",
       "build-js-styles.css",
-      "app-bbb76872e3b442496f05.js.map",
+      "app-0e8dacfcaef5e2b93d9d.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
