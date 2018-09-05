@@ -112,6 +112,10 @@
       "path---huaraz-5a46c958a74d2abdfcad.js",
       "path---huaraz-5a46c958a74d2abdfcad.js.map"
     ],
+    "path---penang": [
+      "path---penang-505ad7d7c26a4404053a.js",
+      "path---penang-505ad7d7c26a4404053a.js.map"
+    ],
     "path---salar-de-uyuni": [
       "path---salar-de-uyuni-53272440d2f4cb7ea97e.js",
       "path---salar-de-uyuni-53272440d2f4cb7ea97e.js.map"
@@ -125,8 +129,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-73d41d10734c639ad61d.js",
-      "path---index-73d41d10734c639ad61d.js.map"
+      "path---index-7168de73d1e9e6f497ed.js",
+      "path---index-7168de73d1e9e6f497ed.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -187,13 +191,13 @@
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
     ],
     "path---cameron-highland": [
-      "path---cameron-highland-0b51ce7fc3400916bd92.js",
-      "path---cameron-highland-0b51ce7fc3400916bd92.js.map"
+      "path---cameron-highland-9c03c05add72dd12a244.js",
+      "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-0e8dacfcaef5e2b93d9d.js",
+      "app-08888da75e355abc1801.js",
       "build-js-styles.css",
-      "app-0e8dacfcaef5e2b93d9d.js.map",
+      "app-08888da75e355abc1801.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
