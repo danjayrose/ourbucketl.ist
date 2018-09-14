@@ -32,6 +32,10 @@
       "path---taupo-200b7b6b61feae37cab5.js",
       "path---taupo-200b7b6b61feae37cab5.js.map"
     ],
+    "path---langkawi": [
+      "path---langkawi-8a8f1ccb0e1619f2a86e.js",
+      "path---langkawi-8a8f1ccb0e1619f2a86e.js.map"
+    ],
     "path---nelson-and-fox": [
       "path---nelson-and-fox-a4f33039a158f81c7171.js",
       "path---nelson-and-fox-a4f33039a158f81c7171.js.map"
@@ -55,6 +59,10 @@
     "path---arequipa": [
       "path---arequipa-fe3b620a6b167dedb90e.js",
       "path---arequipa-fe3b620a6b167dedb90e.js.map"
+    ],
+    "path---singapore": [
+      "path---singapore-56b8c39d6f2fc50b7d97.js",
+      "path---singapore-56b8c39d6f2fc50b7d97.js.map"
     ],
     "path---christchurch-and-kaikoura": [
       "path---christchurch-and-kaikoura-48881f9a9f2141cc9d70.js",
@@ -113,8 +121,8 @@
       "path---huaraz-5a46c958a74d2abdfcad.js.map"
     ],
     "path---penang": [
-      "path---penang-d39409e82c825aad7489.js",
-      "path---penang-d39409e82c825aad7489.js.map"
+      "path---penang-7bc2dd1b418928b78934.js",
+      "path---penang-7bc2dd1b418928b78934.js.map"
     ],
     "path---salar-de-uyuni": [
       "path---salar-de-uyuni-53272440d2f4cb7ea97e.js",
@@ -129,8 +137,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-053bc7751d90efe9305e.js",
-      "path---index-053bc7751d90efe9305e.js.map"
+      "path---index-62573d32a23439635b2f.js",
+      "path---index-62573d32a23439635b2f.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -195,9 +203,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-08888da75e355abc1801.js",
+      "app-2fa031958e75b631b104.js",
       "build-js-styles.css",
-      "app-08888da75e355abc1801.js.map",
+      "app-2fa031958e75b631b104.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
