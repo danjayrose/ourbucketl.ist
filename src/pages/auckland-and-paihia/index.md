@@ -1,5 +1,5 @@
 ---
-title: Auckland Paihia, New Zealand
+title: Auckland & Paihia, New Zealand
 date: "2018-07-20T22:12:03.284Z"
 image: "./auckland.jpg"
 ---
