@@ -61,8 +61,8 @@
       "path---arequipa-fe3b620a6b167dedb90e.js.map"
     ],
     "path---singapore": [
-      "path---singapore-56b8c39d6f2fc50b7d97.js",
-      "path---singapore-56b8c39d6f2fc50b7d97.js.map"
+      "path---singapore-7b98415975e41c586a65.js",
+      "path---singapore-7b98415975e41c586a65.js.map"
     ],
     "path---christchurch-and-kaikoura": [
       "path---christchurch-and-kaikoura-48881f9a9f2141cc9d70.js",
@@ -83,6 +83,10 @@
     "path---las-vegas": [
       "path---las-vegas-ce18fab7b0aee32e00c8.js",
       "path---las-vegas-ce18fab7b0aee32e00c8.js.map"
+    ],
+    "path---kota-kinabalu": [
+      "path---kota-kinabalu-aa6a7f64147726f47931.js",
+      "path---kota-kinabalu-aa6a7f64147726f47931.js.map"
     ],
     "path---bogota": [
       "path---bogota-1484dac39ff05f3bcfda.js",
@@ -137,8 +141,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-62573d32a23439635b2f.js",
-      "path---index-62573d32a23439635b2f.js.map"
+      "path---index-a0ba69b776a316421fb1.js",
+      "path---index-a0ba69b776a316421fb1.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -203,9 +207,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-2fa031958e75b631b104.js",
+      "app-938f9b307c84a52667d9.js",
       "build-js-styles.css",
-      "app-2fa031958e75b631b104.js.map",
+      "app-938f9b307c84a52667d9.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
