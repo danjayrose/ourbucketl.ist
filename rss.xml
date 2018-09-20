@@ -1,5 +1,621 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ourbucketl.ist]]></title><description><![CDATA[Travel Blog]]></description><link>https://ourbucketl.ist/</link><generator>RSS for Node</generator><lastBuildDate>Mon, 17 Sep 2018 15:07:00 GMT</lastBuildDate><item><title><![CDATA[Kota Kinabalu, Malaysia]]></title><description><![CDATA[Firefly Cruise One of the first things we did when we got to Kota Kinabalu, was to head straight out of the city to the Klias Wetlands. We…]]></description><link>https://ourbucketl.ist//kota-kinabalu/</link><guid isPermaLink="false">https://ourbucketl.ist//kota-kinabalu/</guid><pubDate>Sat, 08 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h2&gt;Firefly Cruise&lt;/h2&gt;
-&lt;p&gt;One of the first things we did when we got to Kota Kinabalu, was to head straight out of the city to the Klias Wetlands. We took a tour booked through our hostel &lt;a href=&quot;http://www.akinabaluyh.com/&quot;&gt;Akinabalu Youth Hostel&lt;/a&gt; for £28. Mark our guide collected us and drove us two hours south away from the city. We were then put on a busy boat for an hours cruise along the river to find proboscis monkeys. There were loads of them and they were pretty low in the tree’s and close to the water. Mark explained that the males have big noses and are bigger than the females. He told us that they are also able to swim and that some people believe that if they eat their noses, they will be a stronger man.&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[ourbucketl.ist]]></title><description><![CDATA[Travel Blog]]></description><link>https://ourbucketl.ist/</link><generator>RSS for Node</generator><lastBuildDate>Thu, 20 Sep 2018 14:23:27 GMT</lastBuildDate><item><title><![CDATA[Sandakan, Malaysia]]></title><description><![CDATA[The city To reach Sandakan from Kota Kinabalu we took a public bus. We were told we could just turn up at Inanam Bus Station and the buses…]]></description><link>https://ourbucketl.ist//sandakan/</link><guid isPermaLink="false">https://ourbucketl.ist//sandakan/</guid><pubDate>Fri, 14 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h2&gt;The city&lt;/h2&gt;
+&lt;p&gt;To reach Sandakan from Kota Kinabalu we took a public bus. We were told we could just turn up at Inanam Bus Station and the buses were hourly, we arrived at 9:30 hoping to catch the bus at 10:00, only to be told it was full and we’d have to wait until 11:00. The bus cost us 43MYR, around £8. Eventually we got to board the bus which was really uncomfortable and smelt like a toilet. The driver decided to absolutely blast the Malaysian radio for the first part of our journey, it was so loud my headphones couldn’t drown out the noise. Then he put a film on, but turned the sound down so we couldn’t hear it. The bus made one toilet stop at the grubbiest restaurant we’ve ever been in and the toilets were horrific! Seven hours after leaving Kota Kinabalu we reached the outskirts of Sandakan! We’d had visions of Borneo being a big green jungle island, so it was sad to see that almost the entire drive from Kota Kinabalu to Sandakan was through palm oil plantations, where there used to be rainforest.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/sandakan-330afabd59b673baefdd74c6d94a290f-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEAf/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABtXHiE8QZv//EABsQAQACAgMAAAAAAAAAAAAAAAEAAgMSEBEx/9oACAEBAAEFAnom1I5aj66nH//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPwGIiP/EABYRAAMAAAAAAAAAAAAAAAAAAAACEv/aAAgBAgEBPwGmKc//xAAZEAADAQEBAAAAAAAAAAAAAAAAATERECH/2gAIAQEABj8C9ZSaa7yI/8QAGxABAAICAwAAAAAAAAAAAAAAAQARQVEhYcH/2gAIAQEAAT8hocREmmt7I0BdiJmtmWYiF+E//9oADAMBAAIAAwAAABCUL//EABYRAAMAAAAAAAAAAAAAAAAAAAEQQf/aAAgBAwEBPxAWX//EABgRAAIDAAAAAAAAAAAAAAAAAAABEUFh/9oACAECAQE/EHVBof/EABsQAQEBAAIDAAAAAAAAAAAAAAERACFRYXGh/9oACAEBAAE/EDxj8sw4cqKRMdbOoH1qKLNUuUVFebCmLHz7/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Sandakan&quot;
+        title=&quot;Sandakan&quot;
+        src=&quot;/static/sandakan-330afabd59b673baefdd74c6d94a290f-769ec.jpg&quot;
+        srcset=&quot;/static/sandakan-330afabd59b673baefdd74c6d94a290f-d9ef2.jpg 225w,
+/static/sandakan-330afabd59b673baefdd74c6d94a290f-ac97c.jpg 450w,
+/static/sandakan-330afabd59b673baefdd74c6d94a290f-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;More so than Kota Kinabalu, Sandakan was a really ugly city. It’s clearly used as a base for people to get to the rainforest and to Turtle Island Park before moving on to Tawau or Kota Kinabalu. There was nothing monumental to see in the city, our Grab driver pointed out the memorial to honour the victims of World War 2 after Japan invaded Borneo as most of Sandakan was destroyed. We wanted to visit &lt;a href=&quot;...&quot;&gt;Agnes Newton Keith’s House&lt;/a&gt; but after a long wait and lengthy bus ride we ran out of time. Agnes Keith was a famous American writer, she moved to Sandakan in the 1930’s. Her second book &lt;a href=&quot;...&quot;&gt;Three Came Home&lt;/a&gt; details her time as a Japanese POW. Her house has been preserved as a museum with many original artefacts on display.&lt;/p&gt;
+&lt;p&gt;Almost all of the restaurants in Sandakan have menus based on seafood so we struggled to find anywhere to eat that wasn’t a KFC or McDonalds. We ate and returned to &lt;a href=&quot;http://www.balin-sandakan.com/&quot;&gt;Ba Lin Rooftop Bistro &amp;#x26; Bar&lt;/a&gt;, which was a little pricey for Malaysia but still cheap enough to have a drink and two course meal for 50MYR, around £10. We stayed at &lt;a href=&quot;https://www.sandakanbackpackershostel.com/&quot;&gt;Sandakan Backpackers&lt;/a&gt; each time we were in the city which was really central.&lt;/p&gt;
+&lt;h2&gt;Sepilok&lt;/h2&gt;
+&lt;p&gt;On our way back from the rainforest we decided to linger about in Sepilok before going back to the city. Unfortunately we arrived at 10:30 and had missed the morning feeding time of the orangutans at &lt;a href=&quot;https://www.orangutan-appeal.org.uk/about-us/sepilok-orangutan-rehabilitation-centre&quot;&gt;Sepilok Rehabilitation Centre&lt;/a&gt;. We bought our tickets for 30MYR (£6) and paid the 10MYR (£2) camera fee and stored all of our belongings in the lockers, fortunately they were free and there were ones big enough for our big backpacks. We headed to the playcentre and luckily some of the juvenile orangutans were still hanging around after feeding time. It wasn’t long before they dispersed and headed back into the forest on the ropes and some of the wild macaque monkeys came up to the play centre to scavange the scraps.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/orangutan-hands-5af083799d8c100f6ffcb6f0df293561-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAACBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAC/9oADAMBAAIQAxAAAAE7eQuD7FL/xAAaEAADAAMBAAAAAAAAAAAAAAAAAhEBAxIh/9oACAEBAAEFAryKQRvNWY1P/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAABH/2gAIAQIBAT8BR//EABsQAAIBBQAAAAAAAAAAAAAAAAABEBESITFh/9oACAEBAAY/AuRoteUUj//EABwQAAICAgMAAAAAAAAAAAAAAAERADEQQVFhcf/aAAgBAQABPyFCAbKjFIuJyPkpDK6hd0Yf/9oADAMBAAIAAwAAABCfL//EABYRAQEBAAAAAAAAAAAAAAAAAAARMf/aAAgBAwEBPxDEf//EABYRAQEBAAAAAAAAAAAAAAAAAAEQIf/aAAgBAgEBPxBMj//EABwQAQACAwADAAAAAAAAAAAAAAEAESFBUTFhgf/aAAgBAQABPxAbxkBuO2WIvTl7rR6ii88WaV0nwEeRU//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Orangutan Hands&quot;
+        title=&quot;Orangutan Hands&quot;
+        src=&quot;/static/orangutan-hands-5af083799d8c100f6ffcb6f0df293561-769ec.jpg&quot;
+        srcset=&quot;/static/orangutan-hands-5af083799d8c100f6ffcb6f0df293561-d9ef2.jpg 225w,
+/static/orangutan-hands-5af083799d8c100f6ffcb6f0df293561-ac97c.jpg 450w,
+/static/orangutan-hands-5af083799d8c100f6ffcb6f0df293561-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Whilst the few remaining tourists watched and photographed the macaques, Dan and I noticed that there was a pair of hands underneath us washing stones in the puddle. On the other side one of the juveniles came right up to the glass and posed for lots of photo’s. He was also eating banana but kept playing with it and regurgitating it.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/posing-8b55a604a395e438870d71fd2196061e-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGZ42JzSI//xAAaEAACAwEBAAAAAAAAAAAAAAACAwABEyIR/9oACAEBAAEFAiLrbwRcyhWgSlK7xGf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQEAAwAAAAAAAAAAAAAAAAAAARES/9oACAECAQE/AaZh/8QAHxAAAQMDBQAAAAAAAAAAAAAAAQAQMQIREiEyYaHB/9oACAEBAAY/At3qwIGvCsKYaem//8QAGxAAAgMBAQEAAAAAAAAAAAAAAAERITFRQbH/2gAIAQEAAT8h0xjjkNWMseBKcaopUlv9syKg7qT/2gAMAwEAAgADAAAAEBfv/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAEDAQE/EKx//8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERYf/aAAgBAgEBPxCbMH//xAAeEAEAAgEEAwAAAAAAAAAAAAABABEhMUFRcaGxwf/aAAgBAQABPxAsTndTzACgU0xd8Q1VWKk7htyrzq+pQwhdAHqHKuWf/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Posing&quot;
+        title=&quot;Posing&quot;
+        src=&quot;/static/posing-8b55a604a395e438870d71fd2196061e-769ec.jpg&quot;
+        srcset=&quot;/static/posing-8b55a604a395e438870d71fd2196061e-d9ef2.jpg 225w,
+/static/posing-8b55a604a395e438870d71fd2196061e-ac97c.jpg 450w,
+/static/posing-8b55a604a395e438870d71fd2196061e-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;As feeding time wasn’t until 15:00, we headed to the &lt;a href=&quot;http://www.bsbcc.org.my/&quot;&gt;Borneo Sun Bear Conservation Centre&lt;/a&gt;. We managed to see three of the bears but the rest were hiding in the midday sun. The video at the entrance was a good watch and showed how the centre rehabilitates bears that have been caught and rescued from humans. We were surprised to learn on the walking tour in Kota Kinabalu that even in Sabah, bear bile can be found in traditional Chinese Medicine shops, and the international and national law preventing the hunting of the animals to be poorly enforced.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/sun-bear-1f165326485596afa87113c69b424acf-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAABAAD/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAP/2gAMAwEAAhADEAAAAT2aJjTY/8QAGhAAAwADAQAAAAAAAAAAAAAAAAECERIxE//aAAgBAQABBQLTI4k8rJ7sk+H/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAwEBPwFH/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAHRAAAgAHAQAAAAAAAAAAAAAAAAEQERIiMTJRYf/aAAgBAQAGPwJ+G13DIyVKh//EABsQAAMAAgMAAAAAAAAAAAAAAAABESFRMXGR/9oACAEBAAE/IbxPk1kSUc0i9D0ad5UuexaJH//aAAwDAQACAAMAAAAQF/8A/8QAFxEBAAMAAAAAAAAAAAAAAAAAAAERMf/aAAgBAwEBPxCNUf/EABYRAQEBAAAAAAAAAAAAAAAAABEAAf/aAAgBAgEBPxDFnb//xAAcEAEAAwEAAwEAAAAAAAAAAAABABEhcTFBUZH/2gAIAQEAAT8QAi2tMXubyohaAF77bLeJyG9tA/rBiqE+08zCjjrY/Oz/2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Sun Bears&quot;
+        title=&quot;Sun Bears&quot;
+        src=&quot;/static/sun-bear-1f165326485596afa87113c69b424acf-769ec.jpg&quot;
+        srcset=&quot;/static/sun-bear-1f165326485596afa87113c69b424acf-d9ef2.jpg 225w,
+/static/sun-bear-1f165326485596afa87113c69b424acf-ac97c.jpg 450w,
+/static/sun-bear-1f165326485596afa87113c69b424acf-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;At 15:00 we headed back to the Orangutan Rehabilitation Centre, we watched the juveniles be fed and play and then headed to Platform A, where two orangutans, a mother and a juvenile were waiting to be fed. Not long after they’d had their fill, a mother and her baby came across the walkway. She was literally a meter away from us before she climbed up and onto the ropes to get to the feeding platform. Whilst we were watching her the rangers started shouting for everyone to get back and one of the big males came walking towards us. The rangers managed to get him to go into the bushes by making loud noises with a stick, he became very vocal before swinging to the platform to get some bananas. We got so lucky managing to see a male, female, juveniles and a baby orangutan! We overheard one of the volunteers say that this was the most she’d seen in a while come to feed and some days there might be just one or two orangutans.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/mother-and-baby-5ea94d0bd48cb1d973c7b8b9bfdd573e-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 150%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAeABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAQX/xAAWAQEBAQAAAAAAAAAAAAAAAAACAQD/2gAMAwEAAhADEAAAAZXTNN6AsAhpxrSxhd//xAAcEAACAgMBAQAAAAAAAAAAAAABAgARAyEiEjL/2gAIAQEAAQUCJpU83ZjtrDy5apkQAH6KNZXm6GzP/8QAFREBAQAAAAAAAAAAAAAAAAAAASD/2gAIAQMBAT8BY//EABcRAAMBAAAAAAAAAAAAAAAAAAABEBH/2gAIAQIBAT8BZl//xAAdEAACAQQDAAAAAAAAAAAAAAAAASECESKBEDFR/9oACAEBAAY/AplGJBYp8qOxVrYoIdiy2YRx/8QAHhABAAICAgMBAAAAAAAAAAAAAQARITFBUWFxkcH/2gAIAQEAAT8hIKFueybOf5PEmLj2x0XVmK6B8l4jqsqDw0BDU9BZe03WUS9MueYGlqf/2gAMAwEAAgADAAAAEMwjcP/EABgRAQEAAwAAAAAAAAAAAAAAAAARASFB/9oACAEDAQE/EMK2vUf/xAAYEQEAAwEAAAAAAAAAAAAAAAABABEhEP/aAAgBAgEBPxAZwW7KJ//EAB0QAQEAAwACAwAAAAAAAAAAAAERACExQYFhcbH/2gAIAQEAAT8Q8C5jSeEfocC0mmy19p3O0R8swuEdJW4tUIg660uaRXad5ogCn9MZDYHYRyaADpEw0RqiglujFJCUpr3O+PWHKYGZ/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Mother and baby&quot;
+        title=&quot;Mother and baby&quot;
+        src=&quot;/static/mother-and-baby-5ea94d0bd48cb1d973c7b8b9bfdd573e-769ec.jpg&quot;
+        srcset=&quot;/static/mother-and-baby-5ea94d0bd48cb1d973c7b8b9bfdd573e-d9ef2.jpg 225w,
+/static/mother-and-baby-5ea94d0bd48cb1d973c7b8b9bfdd573e-ac97c.jpg 450w,
+/static/mother-and-baby-5ea94d0bd48cb1d973c7b8b9bfdd573e-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;There are four feeding platforms in the centre; the first being the one tourists are allowed to and the closest to the centre, and the last being 1KM into the forest and the idea being, by the time the orangutans go to this feeding platform, they have learnt to be pretty self-sufficent. The orangutans in the centre are semi-wild and are free to roam the forest. Tourists aren’t allowed to see the nursery and the rescued baby orangutans; but if you are willing to pay around £2000 for 4-8 weeks volunteering in the rescue centre you are able to work with the babies!&lt;/p&gt;
+&lt;h2&gt;Selingan Island&lt;/h2&gt;
+&lt;p&gt;We were really indecisive about whether we should visit Selingan Island in &lt;a href=&quot;http://www.sabahparks.org.my/the-parks/turtle-islands-park&quot;&gt;Turtle Islands Park&lt;/a&gt;. Everyone we met who had been to Borneo told us it was an amazing experience but it was quite costly (465MYR, £85 per person), the UK foreign travel advice was also ‘all but essential travel’ to islands between Kudat and Tawau in Sabah, Borneo, due to the risk of pirates in the Sulu Sea coming from the Philipines. A few days before we travelled to Sandakan, we decided to go for it and it was one of the best decisions we made on the trip. We arrived at the jetty in Sandakan for 09:00 and took the 45 minute speedboat to Selingan Island, the only island out of six (three beloning to Malaysia and three to the Philipines) that can be visited by tourists. We paid our 10MYR camera fee and 60MYR conservation fee’s each, checked in to our room and headed for the beach. The island reminded us of the islands in San Blas in Panama, there was only one facility on the island, big lizards, plenty of mosquitos, white sand and warm blue sea. We were only 5KM from islands in the Philipines which we could see in the short distance.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/selingan-island-e4c6fb89355d584dd0f92e89f476eb22-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMFBP/EABYBAQEBAAAAAAAAAAAAAAAAAAEAAv/aAAwDAQACEAMQAAAB0reRCLJl/8QAGxAAAgEFAAAAAAAAAAAAAAAAAAECEBESEyH/2gAIAQEAAQUCyRJ8e1llX//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAwEBPwHKP//EABYRAQEBAAAAAAAAAAAAAAAAAAAREv/aAAgBAgEBPwHSv//EABkQAAIDAQAAAAAAAAAAAAAAAAAxAhEgkf/aAAgBAQAGPwIVilzH/8QAGhABAQEAAwEAAAAAAAAAAAAAAQARIUFRcf/aAAgBAQABPyEyj2mngTXUvlA6ll5v/9oADAMBAAIAAwAAABA0/wD/xAAXEQEAAwAAAAAAAAAAAAAAAAAAARFR/9oACAEDAQE/EI0o/8QAFxEBAAMAAAAAAAAAAAAAAAAAABFRYf/aAAgBAgEBPxDKVv/EABoQAQEBAQADAAAAAAAAAAAAAAERACEQUYH/2gAIAQEAAT8QQO4MdFEKvrUbjkYMCQ/ckhzxP//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Selingan Island&quot;
+        title=&quot;Selingan Island&quot;
+        src=&quot;/static/selingan-island-e4c6fb89355d584dd0f92e89f476eb22-769ec.jpg&quot;
+        srcset=&quot;/static/selingan-island-e4c6fb89355d584dd0f92e89f476eb22-d9ef2.jpg 225w,
+/static/selingan-island-e4c6fb89355d584dd0f92e89f476eb22-ac97c.jpg 450w,
+/static/selingan-island-e4c6fb89355d584dd0f92e89f476eb22-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We paid for snorkelling equipment (25MYR, £5) as we were allowed on the beach until 18:00 when the turtles started to come in and Dan dragged me straight into the sea. Some of the coral was sadly dead but there was still lots that was alive and colourful. There were also lots and lots of colourful fish! At one point more fish than I’ve ever seen at one time swam through us, Dan was loving it, I freaked out. After lunch (all food was included in the package), Dan dragged me back into the sea for a second snorkelling session; we managed to see clown fish (Nemo), moorish idol (Gil from Nemo), a stone fish, lion fish, puffer fish, lots of sea cucumbers, yellow tang, two massive pompano, copperband butterfly fish, dussumier’s halfbeak, flag snappers, parrotfish and loads more.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/clown-fish-ab8381402ac8bc0ffcb4e87bee466d6e-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 75%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAEDAv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAGqeSpIj//EABkQAQEBAAMAAAAAAAAAAAAAAAEAAhEhIv/aAAgBAQABBQLWvJvueCAlv//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAWEAADAAAAAAAAAAAAAAAAAAAAESD/2gAIAQEABj8CFP8A/8QAGxAAAgIDAQAAAAAAAAAAAAAAAAERITFhcUH/2gAIAQEAAT8h8V6JkoTxiKxCLT3ZZThcP//aAAwDAQACAAMAAAAQI/8A/8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQMBAT8Qg//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABoQAQEBAQEBAQAAAAAAAAAAAAERADFxIVH/2gAIAQEAAT8QjViQHX3PGMOW5b30usCxg9sxBAApdVx/mvhn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Clown fish&quot;
+        title=&quot;Clown fish&quot;
+        src=&quot;/static/clown-fish-ab8381402ac8bc0ffcb4e87bee466d6e-769ec.jpg&quot;
+        srcset=&quot;/static/clown-fish-ab8381402ac8bc0ffcb4e87bee466d6e-d9ef2.jpg 225w,
+/static/clown-fish-ab8381402ac8bc0ffcb4e87bee466d6e-ac97c.jpg 450w,
+/static/clown-fish-ab8381402ac8bc0ffcb4e87bee466d6e-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;After the sun went down a lot of the eggs, already buried in the hatchery, started to hatch and baby turtles were coming out of the sand. We watched a video and visited the exhibition hall, which told us all about the park and the work that they do there. Each night the rangers collect the eggs from the turtles nests, the night we were on the island they collected 22 nests. Each nest can contain between 25-150 eggs, 80% of those eggs hatch in the hatchery after 60 days and are released during the night into the sea by the rangers. Straight after dinner, around 20:00, we were told a turtle had come onto the beach, tourists are only allowed to see the first turtle lay her eggs, after that no one is allowed on the beach until 06:00AM. By the time we got to her, she’d finished so the rangers told us we could see another turtle when they landed.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/green-turtle-818c6b801fd051335c8f3fc152949b5e-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAHKbVtIiof/xAAZEAEAAwEBAAAAAAAAAAAAAAABAAIRIQP/2gAIAQEAAQUCwInnUTpXYnLOv//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABgQAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAEBAAY/AhTry0uf/8QAGRAAAwEBAQAAAAAAAAAAAAAAAAEhETFh/9oACAEBAAE/IVhTOqhWcFBvsGK1G6n/2gAMAwEAAgADAAAAEITP/8QAFREBAQAAAAAAAAAAAAAAAAAAEEH/2gAIAQMBAT8Qp//EABURAQEAAAAAAAAAAAAAAAAAABBB/9oACAECAQE/EIf/xAAbEAEAAgMBAQAAAAAAAAAAAAABABEhQWExUf/aAAgBAQABPxAb2pk3KBZKlLOuwjqq7HRseIzDpv5FCZ//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Green turtle&quot;
+        title=&quot;Green turtle&quot;
+        src=&quot;/static/green-turtle-818c6b801fd051335c8f3fc152949b5e-769ec.jpg&quot;
+        srcset=&quot;/static/green-turtle-818c6b801fd051335c8f3fc152949b5e-d9ef2.jpg 225w,
+/static/green-turtle-818c6b801fd051335c8f3fc152949b5e-ac97c.jpg 450w,
+/static/green-turtle-818c6b801fd051335c8f3fc152949b5e-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We watched the ranger bury the eggs and he explained that if the eggs are in the sun the majority of the turtles will be female but if they are in the shade, so are cooler, they will be male. We then took some of the hatched baby turtles to the beach and the ranger said we could help release them into the sea. He stood in the sea with his torch and explained they would be attracted to the light. He said if the turtles went the wrong way we could help them by turning them around. It was mayhem, but we managed to help around 4 of them turn around and go in the right direction out to the sea.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/baby-turtles-197c1188514fdafbc84b0a2f7419ac61-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAgUA/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/2gAMAwEAAhADEAAAAZKoKIuWr//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMRBCH/2gAIAQEAAQUCSsvHqZZk5j5cdBn/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/AT//xAAXEAADAQAAAAAAAAAAAAAAAAAAASEg/9oACAEBAAY/AoirP//EABgQAAMBAQAAAAAAAAAAAAAAAAABETFB/9oACAEBAAE/IWUezZ0QNURHNNH/2gAMAwEAAgADAAAAEFwf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Qp//EABoQAAMAAwEAAAAAAAAAAAAAAAABESExQZH/2gAIAQEAAT8QuUiC+aOmyLIU4siXtrWpemLn/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Baby turtles&quot;
+        title=&quot;Baby turtles&quot;
+        src=&quot;/static/baby-turtles-197c1188514fdafbc84b0a2f7419ac61-769ec.jpg&quot;
+        srcset=&quot;/static/baby-turtles-197c1188514fdafbc84b0a2f7419ac61-d9ef2.jpg 225w,
+/static/baby-turtles-197c1188514fdafbc84b0a2f7419ac61-ac97c.jpg 450w,
+/static/baby-turtles-197c1188514fdafbc84b0a2f7419ac61-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;Shortly after another mother had landed and we got to see her lay her eggs. We’d read some reviews that talked about it being cruel, but the rangers were very good; shining the torch on the mother’s back not on her face, being vigilant about others not having their lights on and getting people to rotate for photos. They promptly got us off the beach too so that the mother could go out to sea once she had finished.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/eggs-d61cc1fe1df411a70803b9105a16003f-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBBAX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAABwWDlqkB//8QAGRABAAMBAQAAAAAAAAAAAAAAAgABAxAS/9oACAEBAAEFApYVVAvC13WvP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAAEFAQAAAAAAAAAAAAAAAAEAEBEhYbH/2gAIAQEABj8CUkNPVdDG/8QAGhABAAIDAQAAAAAAAAAAAAAAAREhABBBgf/aAAgBAQABPyHDaISfNKBBjgpyuhRWn//aAAwDAQACAAMAAAAQWO//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAbEAEAAgMBAQAAAAAAAAAAAAABETEAEFEhQf/aAAgBAQABPxCHmAEApSpea+8LSA4mDospQeVr/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Eggs&quot;
+        title=&quot;Eggs&quot;
+        src=&quot;/static/eggs-d61cc1fe1df411a70803b9105a16003f-769ec.jpg&quot;
+        srcset=&quot;/static/eggs-d61cc1fe1df411a70803b9105a16003f-d9ef2.jpg 225w,
+/static/eggs-d61cc1fe1df411a70803b9105a16003f-ac97c.jpg 450w,
+/static/eggs-d61cc1fe1df411a70803b9105a16003f-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We woke up at 05:30 to get to the beach for 06:00 in the hope that one of the last turtles might still be laying her eggs. Even though we got there bang on six, it was clear that some of the tourists hadn’t respected the rules and the turtles and had been on the beach well before 06:00. All the mother’s had gone but some of the babies hadn’t made it out to sea. We helped one of them go back in the water, he was on the beach and looked exhausted. No sooner had he gone out in the waves, he was on his side and fish were pecking at him; we don’t think he made it. We helped another who swam off as fast as he could, and saw a skeleton and a couple floating in the waves, these too sadly hadn’t made it!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/stray-baby-8ab5f04be4e915a238b3d2db2fcfad23-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAED/8QAFQEBAQAAAAAAAAAAAAAAAAAAAQD/2gAMAwEAAhADEAAAAbsg6oj/xAAaEAACAwEBAAAAAAAAAAAAAAABAgAREhAh/9oACAEBAAEFAhtIr65fpsEmf//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABoQAQADAAMAAAAAAAAAAAAAAAEAEBEhMlH/2gAIAQEABj8CzsRKCaPHlf/EABsQAAMAAgMAAAAAAAAAAAAAAAABESExUWHh/9oACAEBAAE/IXb6kKeDxyQcS7FSg6CDP//aAAwDAQACAAMAAAAQWz//xAAWEQADAAAAAAAAAAAAAAAAAAAAARH/2gAIAQMBAT8QbpD/xAAVEQEBAAAAAAAAAAAAAAAAAAAAEf/aAAgBAgEBPxCq/8QAHRAAAgIBBQAAAAAAAAAAAAAAAREAMSFBUXGBwf/aAAgBAQABPxAAAgZW0DYGbJ7Dwg9ESW6ioJaM9wiE8T//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Stray baby&quot;
+        title=&quot;Stray baby&quot;
+        src=&quot;/static/stray-baby-8ab5f04be4e915a238b3d2db2fcfad23-769ec.jpg&quot;
+        srcset=&quot;/static/stray-baby-8ab5f04be4e915a238b3d2db2fcfad23-d9ef2.jpg 225w,
+/static/stray-baby-8ab5f04be4e915a238b3d2db2fcfad23-ac97c.jpg 450w,
+/static/stray-baby-8ab5f04be4e915a238b3d2db2fcfad23-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;h2&gt;Our verdict on Sandakan&lt;/h2&gt;
+&lt;p&gt;Sandakan itself wasn’t a pretty town but it made a good base for all the amazing activities around. We loved spending time in the Borneo rainforest and got so lucky to see six wild orangutans on top of seeing lots of at the Rehabilitation Centre in Sepilok. However, seeing the destruction and the amount of palm oil plantations in such a small part of the country was really sad and its no wonder so much of the wildlife is visible in such a small area. Visiting Turtle Island Park was also an incredible experience and one we’ll never forget! We hope all the little guys we released make it. But again its sad to think that so many of them won’t because they’ll be tangled in fishing nets and will swallow plastic that ends up in the sea. After visiting Sabah, we’ll definitely be making more of a concious effort to use sustainable palm oil and less plastic!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Kota Kinabatangan, Malaysia]]></title><description><![CDATA[Nature Lodge We booked to stay at  Nature Lodge  in Kota Kinabatangan, an area of rainforest around 2 and a half hours drive from Sandakan…]]></description><link>https://ourbucketl.ist//kota-kinabatangan/</link><guid isPermaLink="false">https://ourbucketl.ist//kota-kinabatangan/</guid><pubDate>Wed, 12 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h2&gt;Nature Lodge&lt;/h2&gt;
+&lt;p&gt;We booked to stay at &lt;a href=&quot;http://www.naturelodgekinabatangan.com/&quot;&gt;Nature Lodge&lt;/a&gt; in Kota Kinabatangan, an area of rainforest around 2 and a half hours drive from Sandakan. The lodge absolutely exceeded all of our expectations, compared to the basic rickety wooden hut we’d had in the Amazon, this was luxury! We had mozzie nets on the windows plus a plug in, 24 hour electricity, hot water, a fan and air con! Plus a kettle and tea and coffee in the room, it was actually nicer than some of the hostels we’d stayed in and a complete bargain at £112 for 2 nights with all food, water, accommodation, transport, jungle treks and boat trips included! We arrived at around 3 in the afternoon after a having lunch in Sepilok. We dumped our bags and went on a 2 hour river cruise to try and find some wildlife and species endemic to Borneo! We rented a pair of binoculars for 30MYR (£6) for our trip, although this was pricey we knew from our time in the Amazon that a lot of the wildlife would be quite far away and it was the only way of seeing the animals.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/river-d562b1312c65e7ab7d13728fb4776660-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAMEBf/EABYBAQEBAAAAAAAAAAAAAAAAAAIAAf/aAAwDAQACEAMQAAABkpzKDLFCz//EABoQAAIDAQEAAAAAAAAAAAAAAAECAAMREyH/2gAIAQEAAQUCrcGG1Apv9VsnQ4QJ/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGRAAAQUAAAAAAAAAAAAAAAAAAAIgIUGR/9oACAEBAAY/Ai8ISz//xAAbEAEAAgIDAAAAAAAAAAAAAAABACExYRFBUf/aAAgBAQABPyGvRIm5uHU6xtiYSyelxDif/9oADAMBAAIAAwAAABB/L//EABYRAAMAAAAAAAAAAAAAAAAAAAABEf/aAAgBAwEBPxBQiP/EABcRAQADAAAAAAAAAAAAAAAAAAABESH/2gAIAQIBAT8Qm2v/xAAcEAACAgIDAAAAAAAAAAAAAAABEQAhMVFhcZH/2gAIAQEAAT8QKMYDNMTVAASz3SjCR6JgYEGGpXIQ5NHP/9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;River&quot;
+        title=&quot;River&quot;
+        src=&quot;/static/river-d562b1312c65e7ab7d13728fb4776660-769ec.jpg&quot;
+        srcset=&quot;/static/river-d562b1312c65e7ab7d13728fb4776660-d9ef2.jpg 225w,
+/static/river-d562b1312c65e7ab7d13728fb4776660-ac97c.jpg 450w,
+/static/river-d562b1312c65e7ab7d13728fb4776660-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt; Our guide Mohammed also turned out to be our boatman and with 10 other tourists in the boat it wasn’t the intimate experience we’d had in the Amazon but we were excited about our chances of seeing wild orangutans and pygmy elephants! On our first boat cruise we saw lots of proboscis monkeys, macaque monkeys and some hidden silver leaf monkeys. We saw a few of the common birds found in Borneo and got lucky with a wild orangutan. He was quite far back in the trees making a nest for the night but we could just about see his face through our binoculars. We weren’t the only boat to see him and within minutes there were about 5 boats (so more than 50 people) watching the wild orangutan.&lt;/p&gt;
+&lt;p&gt; 
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/monkeys-b7d5c64213f82e2ef9188950517de275-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAMBAgT/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAc8sVhcUR//EABkQAAIDAQAAAAAAAAAAAAAAAAASARAiQf/aAAgBAQABBQKDuhaY/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFREBAQAAAAAAAAAAAAAAAAAAEBH/2gAIAQIBAT8Bh//EABUQAQEAAAAAAAAAAAAAAAAAABAx/9oACAEBAAY/Amv/xAAbEAADAQADAQAAAAAAAAAAAAAAAREhMVGRsf/aAAgBAQABPyF9jcG5GyjjK/R7nwLtxu8wpn//2gAMAwEAAgADAAAAEADP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFhEBAQEAAAAAAAAAAAAAAAAAABEh/9oACAECAQE/EIa//8QAGxABAQEBAAMBAAAAAAAAAAAAAREhAEFRYTH/2gAIAQEAAT8QkIst9ZxmSGGRvYYQCBOcozBd8nm6Ik1rPv2cqvh/B2Hrv//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Monkeys&quot;
+        title=&quot;Monkeys&quot;
+        src=&quot;/static/monkeys-b7d5c64213f82e2ef9188950517de275-769ec.jpg&quot;
+        srcset=&quot;/static/monkeys-b7d5c64213f82e2ef9188950517de275-d9ef2.jpg 225w,
+/static/monkeys-b7d5c64213f82e2ef9188950517de275-ac97c.jpg 450w,
+/static/monkeys-b7d5c64213f82e2ef9188950517de275-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;After dinner we went on a night walk in the jungle, not my favourite part of a jungle experience. Mohammed told us to wear long pants and tops and to tuck the tops in as leeches are attracted to warm areas of the body, he then told us stories about how he’d ended up with leeches on his penis and his bum. At this point we were pleased we were covered from head to toe with 80% DEET and I had borrowed Dans belt on the tightest notch. We’d rented wellies for 10MYR (£10) for the walk, as it had been raining parts of the forest were muddier than Glastonbury. We got lucky on our first night walk, everyone was respectfully quiet and we managed to see a mouse deer, some colourful birds asleep on branches, a massive stick insect and a civet cat.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/colourful-bird-3be11c58607fdb088e6d137ae4fb0e2a-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQCAwX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAv/aAAwDAQACEAMQAAABy5qtyuEQ/8QAGxABAAICAwAAAAAAAAAAAAAAAgABAxITIjH/2gAIAQEAAQUCOlRPoMHIKg8ORiv/xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAIAQIBAT8BZX//xAAeEAABAwQDAAAAAAAAAAAAAAAAAQIREBIhMTJRof/aAAgBAQAGPwKd+HFMiOSlnZDXQf/EABsQAAICAwEAAAAAAAAAAAAAAAERACExQVFh/9oACAEBAAE/IbqHm4Y+QbbXkAShEbuFa7BfLMiPACf/2gAMAwEAAgADAAAAEKwP/8QAFhEBAQEAAAAAAAAAAAAAAAAAABEB/9oACAEDAQE/EImv/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAEhQf/aAAgBAgEBPxByseJ//8QAHBABAAMAAgMAAAAAAAAAAAAAAQARITGBQVFh/9oACAEBAAE/EAtTvOQfXY5EwG6B4HfLD6qCGwjsVaXdLNGpe4W6zrOIsZW6Pc//2Q==&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Colourful Bird&quot;
+        title=&quot;Colourful Bird&quot;
+        src=&quot;/static/colourful-bird-3be11c58607fdb088e6d137ae4fb0e2a-769ec.jpg&quot;
+        srcset=&quot;/static/colourful-bird-3be11c58607fdb088e6d137ae4fb0e2a-d9ef2.jpg 225w,
+/static/colourful-bird-3be11c58607fdb088e6d137ae4fb0e2a-ac97c.jpg 450w,
+/static/colourful-bird-3be11c58607fdb088e6d137ae4fb0e2a-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;The next morning we were up at 05:30 for a river cruise at 06:00. We managed to find some small crocodiles and lots of monkeys looking for some breakfast, including some active silver leaf monkeys. It was at this point that a group of people in our group started to really irritate us. They were chatting the entire time and were so loud they scared off some of the monkeys. One of the guys actually started shouting ‘next’ when we saw a group of monkeys that we’d already seen before. Mohammed took us on a jungle trek later in the morning, we already knew we wouldn’t see anything in the heat of the day with 12 people traipsing through the jungle but he told us anyway. He showed us medicinal plants and pointed out some insects. He also told us some rainforest stories; a time he got lost in the jungle, found by his family after banging on a root of a tree with 15 leeches on him and about a time some pygmy elephants wanted to play football with his daughter, luckily she was okay.&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/proboscis-monkeys-1f5c8d75a22668fb94702305894365b4-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAUDBAb/xAAWAQEBAQAAAAAAAAAAAAAAAAACAAH/2gAMAwEAAhADEAAAAaLBPOc0IhFf/8QAGRABAQADAQAAAAAAAAAAAAAAAQIAAxBB/9oACAEBAAEFAhBNtGFynkXRz//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAEDAQE/AUf/xAAWEQEBAQAAAAAAAAAAAAAAAAAAERL/2gAIAQIBAT8Bsaf/xAAaEAEAAgMBAAAAAAAAAAAAAAABABAREjEy/9oACAEBAAY/AjKzoz0Vqca//8QAGxAAAwACAwAAAAAAAAAAAAAAAAERMXFRYaH/2gAIAQEAAT8hiA0Ka1eRUfoZ1FlpkG4l2f/aAAwDAQACAAMAAAAQ99//xAAVEQEBAAAAAAAAAAAAAAAAAAAxEP/aAAgBAwEBPxBY/8QAFxEAAwEAAAAAAAAAAAAAAAAAAAERMf/aAAgBAgEBPxBNgo//xAAcEAACAgIDAAAAAAAAAAAAAAABIQARQWExkbH/2gAIAQEAAT8QMbHeoPWBZI2GOxOWqGg9hYTko1lIM2oCoCll7Op//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Proboscis Monkeys&quot;
+        title=&quot;Proboscis-monkeys&quot;
+        src=&quot;/static/proboscis-monkeys-1f5c8d75a22668fb94702305894365b4-769ec.jpg&quot;
+        srcset=&quot;/static/proboscis-monkeys-1f5c8d75a22668fb94702305894365b4-d9ef2.jpg 225w,
+/static/proboscis-monkeys-1f5c8d75a22668fb94702305894365b4-ac97c.jpg 450w,
+/static/proboscis-monkeys-1f5c8d75a22668fb94702305894365b4-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We got super lucky on the second days river cruise. Mohammed took us further than he was supposed to, to the river where the palm oil plantations are in Suruak, this is where the elephants were rumoured to be. On the way we saw our second orangutan in the trees! Sadly we didn’t see any elephants but Mohammed took us onto an oxbow lake and this was nice as it was really tranquil and there was only one other boat on the lake. We managed to see a number of pied hornbills and a couple of rhinoceros hornbills too!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/pied-hornbill-389b4fcbfa45522d6036b69cc5fae14b-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAWAQEBAQAAAAAAAAAAAAAAAAABAAL/2gAMAwEAAhADEAAAAeHFpgkKN//EABoQAAMAAwEAAAAAAAAAAAAAAAABEQISITH/2gAIAQEAAQUC9UpqXidxP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABURAQEAAAAAAAAAAAAAAAAAAAAR/9oACAECAQE/AVf/xAAbEAACAQUAAAAAAAAAAAAAAAAAEBEhQWGBkf/aAAgBAQAGPwKm1bpkiF//xAAZEAEAAwEBAAAAAAAAAAAAAAABABEhMVH/2gAIAQEAAT8hBRVl4jkLeTt1UxnBx2GAo7tzfZ//2gAMAwEAAgADAAAAEO8v/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQIBAT8QFj//xAAeEAEBAAIBBQEAAAAAAAAAAAABEQAhMUFhcYGx8P/aAAgBAQABPxDT9Ho4fuAkkgE8frkQAICRcQ5HQF3G3C0lW5s41nJ7noZ//9k=&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Pied Hornbill&quot;
+        title=&quot;Pied Hornbill&quot;
+        src=&quot;/static/pied-hornbill-389b4fcbfa45522d6036b69cc5fae14b-769ec.jpg&quot;
+        srcset=&quot;/static/pied-hornbill-389b4fcbfa45522d6036b69cc5fae14b-d9ef2.jpg 225w,
+/static/pied-hornbill-389b4fcbfa45522d6036b69cc5fae14b-ac97c.jpg 450w,
+/static/pied-hornbill-389b4fcbfa45522d6036b69cc5fae14b-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;We were really disappointed on our second nightwalk, there seemed to be lots of people going into the forest at once and everyone was really noisy. Tourists kept touching the branches that the sleeping birds were on which in turn disturbed them and woke them up, just so that they could shove their iPhones in the birds faces. Mohammed also found a tarsius tarsier (ghost monkey). He told us that there hadn’t been one in the area for around three months and that we couldn’t linger for long as they could get stressed and kill themselves. It made us really sad that even after being told this, people were still flashing their torches in its face to get a photo and being really noisy. Evenutally it jumped off hopefully to go and hide! Luckily Dan and I remained leech free in the rainforest, but some of the noiser members of the group who’d decided to trample off the path weren’t so lucky!&lt;/p&gt;
+&lt;p&gt;
+  &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/stick-insect-59653545828965c64881e006e9c49e53-769ec.jpg&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+  
+  &lt;span
+    class=&quot;gatsby-resp-image-wrapper&quot;
+    style=&quot;position: relative; display: block; ; max-width: 900px; margin-left: auto; margin-right: auto;&quot;
+  &gt;
+    &lt;span
+      class=&quot;gatsby-resp-image-background-image&quot;
+      style=&quot;padding-bottom: 66.66666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAUCBP/EABYBAQEBAAAAAAAAAAAAAAAAAAMBAv/aAAwDAQACEAMQAAABlNdBZnBL/8QAGxAAAgIDAQAAAAAAAAAAAAAAAQIAAwQQEiL/2gAIAQEAAQUCWp2D1lNLZxD6xZ//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/AT//xAAXEQEAAwAAAAAAAAAAAAAAAAABAhAR/9oACAECAQE/AWTtf//EABsQAAEEAwAAAAAAAAAAAAAAAAEAEBEhEkFh/9oACAEBAAY/ApApXtsUeGm//8QAHBABAAEEAwAAAAAAAAAAAAAAAQAQEUFRITGB/9oACAEBAAE/Ifc1LHquJmjBJnuci74Z/9oADAMBAAIAAwAAABA4P//EABYRAQEBAAAAAAAAAAAAAAAAAAEQEf/aAAgBAwEBPxBXZ//EABcRAAMBAAAAAAAAAAAAAAAAAAABEVH/2gAIAQIBAT8QQTCn/8QAHBABAQACAgMAAAAAAAAAAAAAAREAITFxYYHR/9oACAEBAAE/EKQs3cmOapRKDvHnCtNcLEuveE5mXgsE6+Zyz//Z&apos;); background-size: cover; display: block;&quot;
+    &gt;
+      &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        style=&quot;width: 100%; height: 100%; margin: 0; vertical-align: middle; position: absolute; top: 0; left: 0; box-shadow: inset 0px 0px 0px 400px white;&quot;
+        alt=&quot;Stick Insect&quot;
+        title=&quot;Stick Insect&quot;
+        src=&quot;/static/stick-insect-59653545828965c64881e006e9c49e53-769ec.jpg&quot;
+        srcset=&quot;/static/stick-insect-59653545828965c64881e006e9c49e53-d9ef2.jpg 225w,
+/static/stick-insect-59653545828965c64881e006e9c49e53-ac97c.jpg 450w,
+/static/stick-insect-59653545828965c64881e006e9c49e53-769ec.jpg 900w&quot;
+        sizes=&quot;(max-width: 900px) 100vw, 900px&quot;
+      /&gt;
+    &lt;/span&gt;
+  &lt;/span&gt;
+  
+  &lt;/a&gt;
+    &lt;/p&gt;
+&lt;p&gt;On the final morning we headed out for a last river cruise and we managed to see more orangtuans getting up in the morning. We also got lucky as another boat had spotted a gibbon so we were able to linger around and watch him through the binoculars.&lt;/p&gt;
+&lt;p&gt;List of most of the animals we saw in Kota Kinabatangan Reserve:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Proboscis monkeys&lt;/li&gt;
+&lt;li&gt;Macaque monkeys&lt;/li&gt;
+&lt;li&gt;Silver leafed monkeys&lt;/li&gt;
+&lt;li&gt;Borneo gibbon&lt;/li&gt;
+&lt;li&gt;Oriental pied hornbill&lt;/li&gt;
+&lt;li&gt;Black hornbill&lt;/li&gt;
+&lt;li&gt;Rhinocerous hornbill&lt;/li&gt;
+&lt;li&gt;Orangutans (six)&lt;/li&gt;
+&lt;li&gt;Oriental dwarf kingfisher&lt;/li&gt;
+&lt;li&gt;Stork billed kingfisher&lt;/li&gt;
+&lt;li&gt;Blue eared kingfisher&lt;/li&gt;
+&lt;li&gt;Green imperial pigeon&lt;/li&gt;
+&lt;li&gt;Stick insect&lt;/li&gt;
+&lt;li&gt;Bats&lt;/li&gt;
+&lt;li&gt;Civet cat&lt;/li&gt;
+&lt;li&gt;Mouse deer&lt;/li&gt;
+&lt;li&gt;Crocodile&lt;/li&gt;
+&lt;li&gt;Wallaces hawk eagle&lt;/li&gt;
+&lt;li&gt;Blue throated bee-eater&lt;/li&gt;
+&lt;li&gt;Black squirrel&lt;/li&gt;
+&lt;li&gt;Storms stalk&lt;/li&gt;
+&lt;li&gt;Pygmy squirrel&lt;/li&gt;
+&lt;li&gt;Serpent eagle&lt;/li&gt;
+&lt;li&gt;Bat hawk&lt;/li&gt;
+&lt;li&gt;Tarsius tarsier&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;Our verdict on Kota Kinabatangan&lt;/h2&gt;
+&lt;p&gt;Overall we enjoyed our time in Kota Kinabatangan; it was amazing to see orangutans in the wild! However, we left feeling really annoyed and frustrated by the way other people had behaved!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Kota Kinabalu, Malaysia]]></title><description><![CDATA[Firefly Cruise One of the first things we did when we got to Kota Kinabalu, was to head straight out of the city to the Klias Wetlands. We…]]></description><link>https://ourbucketl.ist//kota-kinabalu/</link><guid isPermaLink="false">https://ourbucketl.ist//kota-kinabalu/</guid><pubDate>Sat, 08 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h2&gt;Firefly Cruise&lt;/h2&gt;
+&lt;p&gt;One of the first things we did when we got to Kota Kinabalu, was to head straight out of the city to the Klias Wetlands. We took a tour booked through our hostel &lt;a href=&quot;http://www.akinabaluyh.com/&quot;&gt;Akinabalu Youth Hostel&lt;/a&gt; for £28. Mark, our guide collected us and drove us two hours south of the city. We were then put on a busy boat for an hours cruise along the river to find proboscis monkeys. There were loads of them and they were pretty low in the tree’s and close to the water. Mark explained that the males have big noses and are bigger than the females. He told us that they are also able to swim and that some men believe that if they eat their noses, they will be a strong.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -33,7 +649,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt; We headed back to the hut to watch the sunset which was basically non-existant due to being so overcast. Once it had gone dark we went back out on the water to find the fireflies. They were all over the tree’s flashing and making the tree’s look like they were covered in fairylights. We’d seen the odd firefly in the Amazon, but nothing like this. We were really impressed!&lt;/p&gt;
+&lt;p&gt; We headed back to the hut on the edge of the river to watch the sunset, which was basically non-existant due to the sky being so overcast. Once it had gone dark we went back out on the water to find the fireflies. They were all over the tree’s flashing and making the forest look like it was covered in fairylights. We’d seen the odd firefly in the Amazon, but nothing like this. We were really impressed!&lt;/p&gt;
 &lt;p&gt; 
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -68,7 +684,7 @@
   &lt;/a&gt;
     &lt;/p&gt;
 &lt;h2&gt;Kota Kinabalu City&lt;/h2&gt;
-&lt;p&gt;Unlike cities on the Malaysian Peninsula, Kota Kinabalu wasn’t a modern or culture-filled city; we felt it lacked any charm and was more of hub to reach wildlife in Borneo. It was very dated, grey and full of Western restuarants! We did a free walking tour that was advertised at the hostel with &lt;a href=&quot;http://freewalk.sabahtourism.com/&quot;&gt;Sabah Tourism&lt;/a&gt; and it actually turned out to be free. The guide left in such haste, no one had chance to give her a tip! She showed us around the city, including some of the buildings that had survived World War 2. She also took us to the Atkinson Clock that was built in memory of Jessleton, as Kota Kinabalu used to be called, after the first district officer died of malaria in 1902 and the Waterfront Markets which were full of fruit, veg and souvenirs.&lt;/p&gt;
+&lt;p&gt;Unlike cities on the Malaysian Peninsula, Kota Kinabalu wasn’t a modern or culture-filled city; we felt it lacked any charm and was more of hub to reach wildlife in Borneo. It was very dated, grey and full of Western restuarants! We did a free walking tour that was advertised at the hostel with &lt;a href=&quot;http://freewalk.sabahtourism.com/&quot;&gt;Sabah Tourism&lt;/a&gt; and it actually turned out to be free. The guide left in such haste, no one had chance to give her a tip! She showed us around the city, including some of the buildings that had survived World War 2. She also took us to the Atkinson Clock that was built when Kota Kinabalu was known as Jessleton, after the first district officer died of malaria in 1902. We also visited the waterfront markets which were full of fruit, veg, dried fish and souvenirs.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -102,7 +718,7 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;We also got a Grab out to the city mosque as it was too far to walk. The mosque is surrounded by a moat so it gives the illusion that it is floating. We wanted to go inside but not only was there a 5MYR fee, we also had to rent Muslim clothes to enter which were a further 10MYR, including a headscarf. In the end we paid the entrance fee but stayed on the outside of the mosque to take photos; it was definitely the most picturesque building in all of Kota Kinabalu.&lt;/p&gt;
+&lt;p&gt;The city mosque was a little too far to walk to so we took a Grab. The mosque is surrounded by a moat so it gives the illusion that it is floating. We wanted to go inside but not only was there a 5MYR fee, we also had to rent Muslim clothes to enter which were a further 10MYR each, including a headscarf. In the end we paid the entrance fee but stayed on the outside of the mosque to take photos; it was definitely the most picturesque building in all of Kota Kinabalu.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -136,9 +752,9 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;One evening we decided to make the most of happy hour on the Waterfront, which is full of overpriced bars and restuarants and we got lucky with another beautiful sunset! Sadly the food wasn’t as good in Borneo as it had been on the Peninsula and it was way more expensive. We ate in &lt;a href=&quot;https://www.facebook.com/ElCentroKK/&quot;&gt;El Centro&lt;/a&gt;, a Mexican restuarant which served mac and cheese, &lt;a href=&quot;hhtps://www.facebook.com/madbencafe&quot;&gt;Mad Ben Cafe&lt;/a&gt;, which did a delicious creme brulee and &lt;a href=&quot;https://www.facebook.com/Laundrluxe&quot;&gt;Laudroluxe&lt;/a&gt; which did the best passionfruit iced tea!&lt;/p&gt;
+&lt;p&gt;One evening we made the most of happy hour on the waterfront, which is full of overpriced bars and restuarants and we got lucky with another beautiful sunset! Sadly the food wasn’t as good in Borneo as it had been on the Peninsula and it was way more expensive. We ate in &lt;a href=&quot;https://www.facebook.com/ElCentroKK/&quot;&gt;El Centro&lt;/a&gt;, a Mexican restuarant which served mac and cheese, &lt;a href=&quot;hhtps://www.facebook.com/madbencafe&quot;&gt;Mad Ben Cafe&lt;/a&gt;, which did a delicious creme brulee and &lt;a href=&quot;https://www.facebook.com/Laundrluxe&quot;&gt;Laudroluxe&lt;/a&gt; which did the best passionfruit iced tea, apart from that it was a bit of a culinary let down.&lt;/p&gt;
 &lt;h2&gt;Tunku Abdul National Park&lt;/h2&gt;
-&lt;p&gt;We decided to visit two of the five islands in Tunku Abdul National Park, Sapi, which is known to be good for snorkelling and Manukan Island which is supposed to have a picturesque beach. It cost us 40MYR (£7.40) for the return boat trip and snorkelling equipment. At the Jettinson Jetty there are around 12 different companies to choose from which send boats out to the island multiple times a day, so as expected the islands were rammed. The driver took us to Manukan first for a couple of hours, sadly the weather was overcast and the sea was pretty choppy. Some tourists had come on in full faces of make up and lovely evening dresses for a day at the beach, hilariously the driver went really fast and they got absolutely drenched. We thought it was really amusing until one of them in front of us put up her umberella to save her hair, resulting in all of the water going over her umbrella and into our faces instead. When we got there the visibility in the sea looked poor as it had churned up all of the sand and the beach was full of pines from the fir trees, the wind also made it cold and not really sunbathing weather.&lt;/p&gt;
+&lt;p&gt;We visited two of the five islands in Tunku Abdul National Park, Sapi, which is known to be good for snorkelling and Manukan Island which is supposed to have a picturesque beach. It cost us 40MYR (£7.40) for the return boat trip and snorkelling equipment. At the Jettleson Jetty there were around 12 different companies to choose from, all send boats out to the islands multiple times a day, so as expected the islands were rammed. The driver took us to Manukan first for a couple of hours, sadly the weather was overcast and the sea was pretty choppy. Some tourists had dressed for a day at the beach in full faces of make up and lovely evening dresses, hilariously the boatman went really fast across the waves and they got absolutely drenched. We thought it was really amusing until one in front of us put up her umberella to save her hair, resulting in all of the water going over her umbrella and into our faces instead. When we got there the visibility in the sea was poor as it had churned up all of the sand and the beach was full of pines from the fir trees, the wind also made it cold and not really sunbathing weather.&lt;/p&gt;
 &lt;p&gt;
   &lt;a
     class=&quot;gatsby-resp-image-link&quot;
@@ -172,9 +788,9 @@
   
   &lt;/a&gt;
     &lt;/p&gt;
-&lt;p&gt;After an hour or so we took a boat to Sapi Island, eager to snorkel the reef as it was almost certain to see clown fish! The island was much smaller but the sea was calm, the sun had started shining and it wasn’t as busy! We saw signs on the beach to watch out for jellyfish and another sign stating that the reef was closed for the day and we could only swim in the diving area. It was a little annoying but at the same time we were pleased that they had shut the reef off to protect it as the sea wasn’t calm enough to swim around it safely without damaging any of it. We had a swim to see what we could find but apart from a few colourful fish that had wandered away from the reef we didn’t see anything. We also got really frustrated with other tourists who kept getting whistled at by the lifeguards for going into the reef, some decided to catch the fish in their tshirts and others were feeding the fish god knows what despite being told not to. We were really shocked by other tourists attitude towards the marine life in the park!&lt;/p&gt;
+&lt;p&gt;After an hour or so we took a boat to Sapi Island, eager to snorkel the reef as it was proabable that we’d see clown fish! The island was much smaller but the sea was calm, the sun had started shining and it wasn’t as busy! We saw signs on the beach to watch out for jellyfish and another sign stating that the reef was closed for the day and we could only swim in the diving area. It was a little annoying but at the same time we were pleased that they had shut the reef off to protect it as the sea wasn’t calm enough to swim around it safely without damaging the coral. We had a swim to see what we could find but apart from a few colourful fish that had wandered away from the reef we didn’t see anything. We also got really frustrated with other tourists who kept getting whistled at by the lifeguards for going into the reef, some decided to catch the fish in their tshirts and others were feeding the fish god knows what despite being told not to. We were really shocked by their attitudes towards the marine life in the park!&lt;/p&gt;
 &lt;h2&gt;Our Verdict on Kota Kinabalu&lt;/h2&gt;
-&lt;p&gt;Like many other places we had been Kota Kinabalu seemed to be a hub to get to better destinations (unless you have lots of money and can stay at the [Shangri La Resort]). We missed out on lots of things here, a two day climb to Mount Kinabalu, Kinabalu National Park and some islands further north such as Manititi. We were disappointed by Tunku Abdul National Park, mainly because of other tourists behaviour towards the marine life and lack of respect for the rules but the firefly cruise exceeded our expectations and we were really glad we’d done this! It made us look forward to our rainforest stay in Kota Kinabatangan!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Singapore]]></title><description><![CDATA[Marina Bay After a short, cheap flight (£7 for our seat and £9 for our luggage) we arrived in Singapore and headed straight for Marina Bay…]]></description><link>https://ourbucketl.ist//singapore/</link><guid isPermaLink="false">https://ourbucketl.ist//singapore/</guid><pubDate>Tue, 04 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h2&gt;Marina Bay&lt;/h2&gt;
+&lt;p&gt;Like many other places we had been, Kota Kinabalu seemed to be a hub to get to better destinations (unless you have lots of money and can stay at the [Shangri La Resort]). We missed out on lots of things here, a two day climb to Mount Kinabalu, Kinabalu National Park and some islands further north such as Manititi. We were disappointed by Tunku Abdul National Park, mainly because of other tourists behaviour towards the marine life and lack of respect for the rules but the firefly cruise exceeded our expectations and we were really glad we’d done this! It made us look forward to our next stop in the rainforest!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Singapore]]></title><description><![CDATA[Marina Bay After a short, cheap flight (£7 for our seat and £9 for our luggage) we arrived in Singapore and headed straight for Marina Bay…]]></description><link>https://ourbucketl.ist//singapore/</link><guid isPermaLink="false">https://ourbucketl.ist//singapore/</guid><pubDate>Tue, 04 Sep 2018 22:12:03 GMT</pubDate><content:encoded>&lt;h2&gt;Marina Bay&lt;/h2&gt;
 &lt;p&gt;After a short, cheap flight (£7 for our seat and £9 for our luggage) we arrived in Singapore and headed straight for Marina Bay, as there are a family of otters who live there. We walked around the water enjoying the view of the thundering skyline, but sadly the otters were no where to be found. At one point Dan thought he had seen one but it turned out to be a monitor water lizard; the massive and scary looking cousin of the komodo dragon. We saw quite a few of them along the waters edge in Singapore. There were also some people flying kites on top of the marina as this is the windiest point in the city. We walked along Helix Bridge, which is similar in style to Millennium bridge in London and we took plenty of photo’s of the ArtScience Museum, which is shaped like a flower.&lt;/p&gt;
 &lt;p&gt;
   &lt;a

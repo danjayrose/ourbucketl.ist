@@ -85,8 +85,8 @@
       "path---las-vegas-ce18fab7b0aee32e00c8.js.map"
     ],
     "path---kota-kinabalu": [
-      "path---kota-kinabalu-aa6a7f64147726f47931.js",
-      "path---kota-kinabalu-aa6a7f64147726f47931.js.map"
+      "path---kota-kinabalu-690dfc3f93afb449d3c3.js",
+      "path---kota-kinabalu-690dfc3f93afb449d3c3.js.map"
     ],
     "path---bogota": [
       "path---bogota-1484dac39ff05f3bcfda.js",
@@ -141,12 +141,16 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-a0ba69b776a316421fb1.js",
-      "path---index-a0ba69b776a316421fb1.js.map"
+      "path---index-ca70113b47c93f3cc69b.js",
+      "path---index-ca70113b47c93f3cc69b.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
       "path---el-calafate-ec3d35ebce5447ce054f.js.map"
+    ],
+    "path---kota-kinabatangan": [
+      "path---kota-kinabatangan-adf525cc4a93637bb9b4.js",
+      "path---kota-kinabatangan-adf525cc4a93637bb9b4.js.map"
     ],
     "path---rotorua": [
       "path---rotorua-9933b95df6d732818f4e.js",
@@ -198,6 +202,10 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---sandakan": [
+      "path---sandakan-fbfebb73ea23baaef5e1.js",
+      "path---sandakan-fbfebb73ea23baaef5e1.js.map"
+    ],
     "path---lollapalooza-argentina": [
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js",
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
@@ -207,9 +215,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-938f9b307c84a52667d9.js",
+      "app-9c67cc0cf8d4f72ff818.js",
       "build-js-styles.css",
-      "app-938f9b307c84a52667d9.js.map",
+      "app-9c67cc0cf8d4f72ff818.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
