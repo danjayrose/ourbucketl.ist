@@ -76,6 +76,10 @@
       "path---mendoza-67865c1f51877c406698.js",
       "path---mendoza-67865c1f51877c406698.js.map"
     ],
+    "path---kuching": [
+      "path---kuching-9f3875ff5c80c67191bc.js",
+      "path---kuching-9f3875ff5c80c67191bc.js.map"
+    ],
     "path---san-blas-islands": [
       "path---san-blas-islands-2872b29483456c214047.js",
       "path---san-blas-islands-2872b29483456c214047.js.map"
@@ -141,8 +145,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-ca70113b47c93f3cc69b.js",
-      "path---index-ca70113b47c93f3cc69b.js.map"
+      "path---index-041f313f6f0f0d3065db.js",
+      "path---index-041f313f6f0f0d3065db.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -203,8 +207,8 @@
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---sandakan": [
-      "path---sandakan-fbfebb73ea23baaef5e1.js",
-      "path---sandakan-fbfebb73ea23baaef5e1.js.map"
+      "path---sandakan-3206ed7e1f359cf282c6.js",
+      "path---sandakan-3206ed7e1f359cf282c6.js.map"
     ],
     "path---lollapalooza-argentina": [
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js",
@@ -215,9 +219,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-9c67cc0cf8d4f72ff818.js",
+      "app-9a91467dd19deac16fbd.js",
       "build-js-styles.css",
-      "app-9c67cc0cf8d4f72ff818.js.map",
+      "app-9a91467dd19deac16fbd.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
@@ -231,6 +235,10 @@
     "path---medellin": [
       "path---medellin-93545198ff9d19453706.js",
       "path---medellin-93545198ff9d19453706.js.map"
+    ],
+    "path---yudanaka-and-kanazawa": [
+      "path---yudanaka-and-kanazawa-891e4ceef6a0b14e6f97.js",
+      "path---yudanaka-and-kanazawa-891e4ceef6a0b14e6f97.js.map"
     ],
     "path---salento": [
       "path---salento-e294c2c9f8e6c0c8f5b0.js",
