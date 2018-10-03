@@ -145,8 +145,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-29e3c8c87f35d406dea2.js",
-      "path---index-29e3c8c87f35d406dea2.js.map"
+      "path---index-a73719109a643d9ca25e.js",
+      "path---index-a73719109a643d9ca25e.js.map"
     ],
     "path---el-calafate": [
       "path---el-calafate-ec3d35ebce5447ce054f.js",
@@ -219,9 +219,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-9a91467dd19deac16fbd.js",
+      "app-235c642c5982914729db.js",
       "build-js-styles.css",
-      "app-9a91467dd19deac16fbd.js.map",
+      "app-235c642c5982914729db.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
@@ -237,12 +237,16 @@
       "path---medellin-93545198ff9d19453706.js.map"
     ],
     "path---yudanaka-and-kanazawa": [
-      "path---yudanaka-and-kanazawa-29dba728d422fe7780b6.js",
-      "path---yudanaka-and-kanazawa-29dba728d422fe7780b6.js.map"
+      "path---yudanaka-and-kanazawa-fa0f1dcd9aa627c27eb0.js",
+      "path---yudanaka-and-kanazawa-fa0f1dcd9aa627c27eb0.js.map"
     ],
     "path---salento": [
       "path---salento-e294c2c9f8e6c0c8f5b0.js",
       "path---salento-e294c2c9f8e6c0c8f5b0.js.map"
+    ],
+    "path---kyoto": [
+      "path---kyoto-b5ce915a4ccbdb360582.js",
+      "path---kyoto-b5ce915a4ccbdb360582.js.map"
     ],
     "path---el-valle": [
       "path---el-valle-903809fafd39e31d1036.js",
