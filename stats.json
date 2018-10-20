@@ -12,6 +12,10 @@
       "path---rio-de-janeiro-12f25adaf0bc140fd387.js",
       "path---rio-de-janeiro-12f25adaf0bc140fd387.js.map"
     ],
+    "path---inle-lake": [
+      "path---inle-lake-504060789f5beca11ac4.js",
+      "path---inle-lake-504060789f5beca11ac4.js.map"
+    ],
     "path---puerto-natales": [
       "path---puerto-natales-55aa5079643f68396936.js",
       "path---puerto-natales-55aa5079643f68396936.js.map"
@@ -108,6 +112,10 @@
       "path---lake-wanaka-08e437d0a5120a8e6792.js",
       "path---lake-wanaka-08e437d0a5120a8e6792.js.map"
     ],
+    "path---yangon": [
+      "path---yangon-e444ff792933c036b263.js",
+      "path---yangon-e444ff792933c036b263.js.map"
+    ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-d3f072e32d3f957ed843.js",
       "component---src-templates-blog-post-js-d3f072e32d3f957ed843.js.map"
@@ -145,8 +153,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-91f5007adadfee34cdff.js",
-      "path---index-91f5007adadfee34cdff.js.map"
+      "path---index-e1578b542e1864969ed9.js",
+      "path---index-e1578b542e1864969ed9.js.map"
     ],
     "path---himeji": [
       "path---himeji-294248df0b3622721f13.js",
@@ -207,8 +215,8 @@
       "path---lima-9257aac1db9ff89cf213.js.map"
     ],
     "path---tokyo": [
-      "path---tokyo-488e46e45397fe758560.js",
-      "path---tokyo-488e46e45397fe758560.js.map"
+      "path---tokyo-9c8625eff8c14d810fe9.js",
+      "path---tokyo-9c8625eff8c14d810fe9.js.map"
     ],
     "path---the-amazon-rainforest": [
       "path---the-amazon-rainforest-6b4e19abfd42e9064dff.js",
@@ -231,9 +239,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-f7637fbe897599d83425.js",
+      "app-27e8c1a3579264beeda0.js",
       "build-js-styles.css",
-      "app-f7637fbe897599d83425.js.map",
+      "app-27e8c1a3579264beeda0.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
