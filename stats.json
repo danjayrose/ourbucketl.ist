@@ -13,8 +13,8 @@
       "path---rio-de-janeiro-12f25adaf0bc140fd387.js.map"
     ],
     "path---inle-lake": [
-      "path---inle-lake-0e2e3dfc7a5af56bc089.js",
-      "path---inle-lake-0e2e3dfc7a5af56bc089.js.map"
+      "path---inle-lake-5d2cd11276c90614c332.js",
+      "path---inle-lake-5d2cd11276c90614c332.js.map"
     ],
     "path---puerto-natales": [
       "path---puerto-natales-55aa5079643f68396936.js",
@@ -153,8 +153,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-91c295bb61b0951df5e7.js",
-      "path---index-91c295bb61b0951df5e7.js.map"
+      "path---index-a366cd4fd538c1b032c1.js",
+      "path---index-a366cd4fd538c1b032c1.js.map"
     ],
     "path---himeji": [
       "path---himeji-294248df0b3622721f13.js",
@@ -230,6 +230,10 @@
       "path---sandakan-3206ed7e1f359cf282c6.js",
       "path---sandakan-3206ed7e1f359cf282c6.js.map"
     ],
+    "path---mandalay": [
+      "path---mandalay-459e1ff8ab0e985ca087.js",
+      "path---mandalay-459e1ff8ab0e985ca087.js.map"
+    ],
     "path---lollapalooza-argentina": [
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js",
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js.map"
@@ -239,9 +243,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-27e8c1a3579264beeda0.js",
+      "app-146fe1f1ef0d353c3550.js",
       "build-js-styles.css",
-      "app-27e8c1a3579264beeda0.js.map",
+      "app-146fe1f1ef0d353c3550.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
