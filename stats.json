@@ -60,6 +60,10 @@
       "path---ushuaia-5f8ae0e2069530b7b010.js",
       "path---ushuaia-5f8ae0e2069530b7b010.js.map"
     ],
+    "path---bagan": [
+      "path---bagan-edb0be85e814a47292ab.js",
+      "path---bagan-edb0be85e814a47292ab.js.map"
+    ],
     "path---arequipa": [
       "path---arequipa-fe3b620a6b167dedb90e.js",
       "path---arequipa-fe3b620a6b167dedb90e.js.map"
@@ -153,8 +157,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-a366cd4fd538c1b032c1.js",
-      "path---index-a366cd4fd538c1b032c1.js.map"
+      "path---index-d237a341bf4dd3b0d0a4.js",
+      "path---index-d237a341bf4dd3b0d0a4.js.map"
     ],
     "path---himeji": [
       "path---himeji-294248df0b3622721f13.js",
@@ -231,8 +235,8 @@
       "path---sandakan-3206ed7e1f359cf282c6.js.map"
     ],
     "path---mandalay": [
-      "path---mandalay-459e1ff8ab0e985ca087.js",
-      "path---mandalay-459e1ff8ab0e985ca087.js.map"
+      "path---mandalay-fccb8c607abaa56502ba.js",
+      "path---mandalay-fccb8c607abaa56502ba.js.map"
     ],
     "path---lollapalooza-argentina": [
       "path---lollapalooza-argentina-501c4c78669e95c227bc.js",
@@ -243,9 +247,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-146fe1f1ef0d353c3550.js",
+      "app-c3f99da7bde9685ee508.js",
       "build-js-styles.css",
-      "app-146fe1f1ef0d353c3550.js.map",
+      "app-c3f99da7bde9685ee508.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
