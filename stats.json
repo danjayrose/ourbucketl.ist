@@ -61,8 +61,8 @@
       "path---ushuaia-5f8ae0e2069530b7b010.js.map"
     ],
     "path---bagan": [
-      "path---bagan-edb0be85e814a47292ab.js",
-      "path---bagan-edb0be85e814a47292ab.js.map"
+      "path---bagan-7b8d35d65b999fd3317c.js",
+      "path---bagan-7b8d35d65b999fd3317c.js.map"
     ],
     "path---arequipa": [
       "path---arequipa-fe3b620a6b167dedb90e.js",
@@ -83,6 +83,10 @@
     "path---mendoza": [
       "path---mendoza-67865c1f51877c406698.js",
       "path---mendoza-67865c1f51877c406698.js.map"
+    ],
+    "path---kathmandu": [
+      "path---kathmandu-80e018917a229a8a0593.js",
+      "path---kathmandu-80e018917a229a8a0593.js.map"
     ],
     "path---kuching": [
       "path---kuching-9f3875ff5c80c67191bc.js",
@@ -157,8 +161,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-d237a341bf4dd3b0d0a4.js",
-      "path---index-d237a341bf4dd3b0d0a4.js.map"
+      "path---index-485c4ded137e8a405202.js",
+      "path---index-485c4ded137e8a405202.js.map"
     ],
     "path---himeji": [
       "path---himeji-294248df0b3622721f13.js",
@@ -247,9 +251,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-c3f99da7bde9685ee508.js",
+      "app-fe1523ef0c7b762a6328.js",
       "build-js-styles.css",
-      "app-c3f99da7bde9685ee508.js.map",
+      "app-fe1523ef0c7b762a6328.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
