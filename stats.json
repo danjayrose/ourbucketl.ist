@@ -85,8 +85,8 @@
       "path---mendoza-67865c1f51877c406698.js.map"
     ],
     "path---kathmandu": [
-      "path---kathmandu-38252c9d12bee688a1db.js",
-      "path---kathmandu-38252c9d12bee688a1db.js.map"
+      "path---kathmandu-10b64b0a437b215eae8d.js",
+      "path---kathmandu-10b64b0a437b215eae8d.js.map"
     ],
     "path---kuching": [
       "path---kuching-9f3875ff5c80c67191bc.js",
@@ -152,6 +152,10 @@
       "path---salar-de-uyuni-53272440d2f4cb7ea97e.js",
       "path---salar-de-uyuni-53272440d2f4cb7ea97e.js.map"
     ],
+    "path---chitwan": [
+      "path---chitwan-f7433b74f8ec41e88ef2.js",
+      "path---chitwan-f7433b74f8ec41e88ef2.js.map"
+    ],
     "path---valparaiso": [
       "path---valparaiso-73bf80c622f5bac55208.js",
       "path---valparaiso-73bf80c622f5bac55208.js.map"
@@ -161,8 +165,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-485c4ded137e8a405202.js",
-      "path---index-485c4ded137e8a405202.js.map"
+      "path---index-62d543f36e71afe70d12.js",
+      "path---index-62d543f36e71afe70d12.js.map"
     ],
     "path---himeji": [
       "path---himeji-294248df0b3622721f13.js",
@@ -251,9 +255,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-fe1523ef0c7b762a6328.js",
+      "app-a346a1f5db0acfda9522.js",
       "build-js-styles.css",
-      "app-fe1523ef0c7b762a6328.js.map",
+      "app-a346a1f5db0acfda9522.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
