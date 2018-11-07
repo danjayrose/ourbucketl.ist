@@ -125,8 +125,8 @@
       "path---yangon-e444ff792933c036b263.js.map"
     ],
     "component---src-templates-blog-post-js": [
-      "component---src-templates-blog-post-js-d3f072e32d3f957ed843.js",
-      "component---src-templates-blog-post-js-d3f072e32d3f957ed843.js.map"
+      "component---src-templates-blog-post-js-86bc38fd06b7a66a9df8.js",
+      "component---src-templates-blog-post-js-86bc38fd06b7a66a9df8.js.map"
     ],
     "path---san-pedro-de-atacama": [
       "path---san-pedro-de-atacama-dc5036880cf32ac74cf6.js",
@@ -137,8 +137,8 @@
       "path---ilha-grande-and-paraty-a17254d79e9b1b3e4b17.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-9396004ffc2dcca50c34.js",
-      "component---src-layouts-index-js-9396004ffc2dcca50c34.js.map"
+      "component---src-layouts-index-js-7e28f30322686b75a594.js",
+      "component---src-layouts-index-js-7e28f30322686b75a594.js.map"
     ],
     "path---huaraz": [
       "path---huaraz-5a46c958a74d2abdfcad.js",
@@ -153,8 +153,8 @@
       "path---salar-de-uyuni-53272440d2f4cb7ea97e.js.map"
     ],
     "path---chitwan": [
-      "path---chitwan-f7433b74f8ec41e88ef2.js",
-      "path---chitwan-f7433b74f8ec41e88ef2.js.map"
+      "path---chitwan-72d8817ec3277f256bf7.js",
+      "path---chitwan-72d8817ec3277f256bf7.js.map"
     ],
     "path---valparaiso": [
       "path---valparaiso-73bf80c622f5bac55208.js",
@@ -165,8 +165,8 @@
       "path---santa-marta-8c8996ded75ddf56a04b.js.map"
     ],
     "path---index": [
-      "path---index-62d543f36e71afe70d12.js",
-      "path---index-62d543f36e71afe70d12.js.map"
+      "path---index-fd2a46cd7e8ff58c90e3.js",
+      "path---index-fd2a46cd7e8ff58c90e3.js.map"
     ],
     "path---himeji": [
       "path---himeji-294248df0b3622721f13.js",
@@ -218,6 +218,10 @@
       "path---cusco-a7e879b72aca2bdbe26a.js",
       "path---cusco-a7e879b72aca2bdbe26a.js.map"
     ],
+    "path---pokhara": [
+      "path---pokhara-528937338ebcb3ac68a6.js",
+      "path---pokhara-528937338ebcb3ac68a6.js.map"
+    ],
     "path---cartagena": [
       "path---cartagena-6bb48642ecc6c32e0e6b.js",
       "path---cartagena-6bb48642ecc6c32e0e6b.js.map"
@@ -255,9 +259,9 @@
       "path---cameron-highland-9c03c05add72dd12a244.js.map"
     ],
     "app": [
-      "app-a346a1f5db0acfda9522.js",
+      "app-6413bba69892110820b1.js",
       "build-js-styles.css",
-      "app-a346a1f5db0acfda9522.js.map",
+      "app-6413bba69892110820b1.js.map",
       "build-js-styles.css.map"
     ],
     "path---santiago": [
